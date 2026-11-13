@@ -1,0 +1,756 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:HSK 3.0::HSK 2
+#tags column:3
+#columns:Front	Back	Tags
+啊	a · adds warmth or surprise at the end: 好啊 (Sure!)	HSK3.0 HSK2
+让	ràng · to let; to make	HSK3.0 HSK2
+得	de · links an action to how well it is done: 跑得快 (runs fast)	HSK3.0 HSK2
+可以	kěyǐ · can; may	HSK3.0 HSK2
+如果	rúguǒ · if	HSK3.0 HSK2
+只	zhǐ · only	HSK3.0 HSK2
+但	dàn · but; yet	HSK3.0 HSK2
+这样	zhèyàng · this kind of	HSK3.0 HSK2
+因为	yīnwèi · because	HSK3.0 HSK2
+自己	zìjǐ · oneself	HSK3.0 HSK2
+但是	dànshì · but; however	HSK3.0 HSK2
+已经	yǐjīng · already	HSK3.0 HSK2
+为什么	wèishénme · why?	HSK3.0 HSK2
+像	xiàng · to resemble	HSK3.0 HSK2
+这么	zhème · so much	HSK3.0 HSK2
+它	tā · it	HSK3.0 HSK2
+为	wèi · for; because of	HSK3.0 HSK2
+可能	kěnéng · maybe; possible	HSK3.0 HSK2
+那么	nàme · like that	HSK3.0 HSK2
+应该	yīnggāi · should; ought to	HSK3.0 HSK2
+所以	suǒyǐ · therefore	HSK3.0 HSK2
+才	cái · ability; talent	HSK3.0 HSK2
+又	yòu · again	HSK3.0 HSK2
+该	gāi · should	HSK3.0 HSK2
+问题	wèntí · question; problem	HSK3.0 HSK2
+更	gèng · more; even more	HSK3.0 HSK2
+带	dài · to bring; to take; to carry	HSK3.0 HSK2
+然后	ránhòu · then; after that	HSK3.0 HSK2
+当	dāng · to act as; when	HSK3.0 HSK2
+事情	shìqing · affair; matter	HSK3.0 HSK2
+所有	suǒyǒu · all	HSK3.0 HSK2
+也许	yěxǔ · perhaps	HSK3.0 HSK2
+相信	xiāngxìn · to believe; to trust	HSK3.0 HSK2
+认为	rènwéi · to think; to believe; to consider	HSK3.0 HSK2
+一直	yīzhí · straight	HSK3.0 HSK2
+不过	bùguò · only	HSK3.0 HSK2
+感觉	gǎnjué · feeling; to feel	HSK3.0 HSK2
+怎么样	zěnmeyàng · how?	HSK3.0 HSK2
+不要	bùyào · don't!	HSK3.0 HSK2
+离开	líkāi · to leave; to depart	HSK3.0 HSK2
+一定	yīdìng · surely	HSK3.0 HSK2
+发现	fāxiàn · to discover; to find	HSK3.0 HSK2
+件	jiàn · item; piece	HSK3.0 HSK2
+而且	érqiě · but also	HSK3.0 HSK2
+必须	bìxū · to have to	HSK3.0 HSK2
+意思	yìsi · idea	HSK3.0 HSK2
+不错	bùcuò · correct	HSK3.0 HSK2
+那样	nàyàng · that kind	HSK3.0 HSK2
+大家	dàjiā · everyone; everybody	HSK3.0 HSK2
+向	xiàng · towards	HSK3.0 HSK2
+以为	yǐwéi · to think	HSK3.0 HSK2
+位	wèi · position	HSK3.0 HSK2
+过来	guòlái · to come over	HSK3.0 HSK2
+掉	diào · to fall; off	HSK3.0 HSK2
+生活	shēnghuó · life; to live	HSK3.0 HSK2
+其他	qítā · other	HSK3.0 HSK2
+或者	huòzhě · or	HSK3.0 HSK2
+弄	nòng · to do; to handle	HSK3.0 HSK2
+过去	guòqù · past; in the past	HSK3.0 HSK2
+算	suàn · to regard as	HSK3.0 HSK2
+成	chéng · to succeed	HSK3.0 HSK2
+条	tiáo · long thin thing; strip	HSK3.0 HSK2
+够	gòu · enough	HSK3.0 HSK2
+以前	yǐqián · before; previously	HSK3.0 HSK2
+长	zhǎng · to grow	HSK3.0 HSK2
+完全	wánquán · complete; whole	HSK3.0 HSK2
+狗	gǒu · dog	HSK3.0 HSK2
+可是	kěshì · but; however	HSK3.0 HSK2
+头	tóu · head	HSK3.0 HSK2
+机会	jīhuì · opportunity; chance	HSK3.0 HSK2
+喂	wèi · hello (on the phone)	HSK3.0 HSK2
+好像	hǎoxiàng · as if	HSK3.0 HSK2
+完	wán · to finish	HSK3.0 HSK2
+漂亮	piàoliang · pretty; beautiful	HSK3.0 HSK2
+分钟	fēnzhōng · minute	HSK3.0 HSK2
+接	jiē · to pick up; to receive; to answer	HSK3.0 HSK2
+场	chǎng · field; measure word for events: 一场比赛 a match	HSK3.0 HSK2
+求	qiú · to seek	HSK3.0 HSK2
+刚	gāng · hard	HSK3.0 HSK2
+变	biàn · to change; to become	HSK3.0 HSK2
+见到	jiàndào · to see	HSK3.0 HSK2
+只要	zhǐyào · if only	HSK3.0 HSK2
+份	fèn · measure word for portions and copies: 一份报纸 a newspaper	HSK3.0 HSK2
+公司	gōngsī · company; firm	HSK3.0 HSK2
+成为	chéngwéi · to become	HSK3.0 HSK2
+永远	yǒngyuǎn · forever	HSK3.0 HSK2
+帮助	bāngzhù · to help; help	HSK3.0 HSK2
+名	míng · name	HSK3.0 HSK2
+它们	tāmen · they	HSK3.0 HSK2
+有人	yǒurén · someone	HSK3.0 HSK2
+清楚	qīngchu · clear	HSK3.0 HSK2
+安全	ānquán · safe; safety	HSK3.0 HSK2
+怎样	zěnyàng · how	HSK3.0 HSK2
+留	liú · to leave	HSK3.0 HSK2
+周	zhōu · week	HSK3.0 HSK2
+愿意	yuànyì · to wish	HSK3.0 HSK2
+计划	jìhuà · plan	HSK3.0 HSK2
+停	tíng · to stop; to park	HSK3.0 HSK2
+感谢	gǎnxiè · to thank; thanks; gratitude	HSK3.0 HSK2
+以后	yǐhòu · after; later; afterwards	HSK3.0 HSK2
+照片	zhàopiàn · photo; photograph; picture	HSK3.0 HSK2
+欢迎	huānyíng · welcome; to welcome	HSK3.0 HSK2
+嘴	zuǐ · mouth	HSK3.0 HSK2
+队	duì · squadron	HSK3.0 HSK2
+拉	lā · to pull	HSK3.0 HSK2
+听说	tīngshuō · to hear of; to be told	HSK3.0 HSK2
+参加	cānjiā · to participate; to take part; to attend	HSK3.0 HSK2
+办法	bànfǎ · way; method; solution	HSK3.0 HSK2
+人们	rénmen · people	HSK3.0 HSK2
+原因	yuányīn · cause	HSK3.0 HSK2
+全	quán · all	HSK3.0 HSK2
+挺	tǐng · straight	HSK3.0 HSK2
+卖	mài · to sell	HSK3.0 HSK2
+信	xìn · letter	HSK3.0 HSK2
+接受	jiēshòu · to accept	HSK3.0 HSK2
+改变	gǎibiàn · to change	HSK3.0 HSK2
+出现	chūxiàn · to appear	HSK3.0 HSK2
+打算	dǎsuàn · to plan; to intend	HSK3.0 HSK2
+特别	tèbié · special; especially	HSK3.0 HSK2
+查	chá · to research	HSK3.0 HSK2
+真正	zhēnzhèng · genuine; real	HSK3.0 HSK2
+结果	jiéguǒ · result; as a result	HSK3.0 HSK2
+小心	xiǎoxīn · careful; to be careful	HSK3.0 HSK2
+当时	dāngshí · then	HSK3.0 HSK2
+或	huò · maybe	HSK3.0 HSK2
+懂	dǒng · to understand	HSK3.0 HSK2
+怎么办	zěnmebàn · what's to be done	HSK3.0 HSK2
+讲	jiǎng · to speak; to explain; to tell	HSK3.0 HSK2
+选	xuǎn · to choose	HSK3.0 HSK2
+感到	gǎndào · to feel	HSK3.0 HSK2
+故事	gùshi · story	HSK3.0 HSK2
+换	huàn · to change; to exchange	HSK3.0 HSK2
+咱们	zánmen · we or us  spoken to)	HSK3.0 HSK2
+进行	jìnxíng · to advance	HSK3.0 HSK2
+段	duàn · paragraph	HSK3.0 HSK2
+刚刚	gānggang · just recently	HSK3.0 HSK2
+行动	xíngdòng · operation	HSK3.0 HSK2
+努力	nǔlì · hard-working; to work hard; effort	HSK3.0 HSK2
+酒	jiǔ · alcohol; liquor; wine	HSK3.0 HSK2
+发	fā · to send out	HSK3.0 HSK2
+刚才	gāngcái · just now; a moment ago	HSK3.0 HSK2
+节目	jiémù · program; show	HSK3.0 HSK2
+通过	tōngguò · to pass through; to get through	HSK3.0 HSK2
+开心	kāixīn · happy; cheerful	HSK3.0 HSK2
+辆	liàng · measure word for vehicles: 一辆车 a car	HSK3.0 HSK2
+变成	biànchéng · to change into	HSK3.0 HSK2
+倒	dǎo · to fall; to collapse	HSK3.0 HSK2
+离	lí · away from; to leave	HSK3.0 HSK2
+往	wǎng · to go	HSK3.0 HSK2
+万	wàn · ten thousand	HSK3.0 HSK2
+句	jù · sentence	HSK3.0 HSK2
+靠	kào · to lean against or on	HSK3.0 HSK2
+办公室	bàngōngshì · office	HSK3.0 HSK2
+生	shēng · to give birth; to grow; raw	HSK3.0 HSK2
+眼睛	yǎnjing · eye; eyes	HSK3.0 HSK2
+最近	zuìjìn · recently; lately	HSK3.0 HSK2
+声音	shēngyīn · voice	HSK3.0 HSK2
+快乐	kuàilè · happy; joyful; cheerful	HSK3.0 HSK2
+可爱	kěài · cute; lovely	HSK3.0 HSK2
+进入	jìnrù · to enter	HSK3.0 HSK2
+能够	nénggòu · to be capable of	HSK3.0 HSK2
+完成	wánchéng · to complete; to finish	HSK3.0 HSK2
+不行	bùxíng · won't do	HSK3.0 HSK2
+样子	yàngzi · appearance	HSK3.0 HSK2
+提	tí · to carry	HSK3.0 HSK2
+部分	bùfen · part	HSK3.0 HSK2
+要求	yāoqiú · to request	HSK3.0 HSK2
+虽然	suīrán · although; even though	HSK3.0 HSK2
+办	bàn · to do	HSK3.0 HSK2
+想到	xiǎngdào · to think of	HSK3.0 HSK2
+加	jiā · to add	HSK3.0 HSK2
+脸	liǎn · face	HSK3.0 HSK2
+不同	bùtóng · different	HSK3.0 HSK2
+家庭	jiātíng · family; household	HSK3.0 HSK2
+装	zhuāng · adornment	HSK3.0 HSK2
+检查	jiǎnchá · to check; to inspect; checkup	HSK3.0 HSK2
+不好意思	bùhǎoyìsi · sorry; embarrassed	HSK3.0 HSK2
+药	yào · medicine; drug	HSK3.0 HSK2
+音乐	yīnyuè · music	HSK3.0 HSK2
+留下	liúxià · to leave behind	HSK3.0 HSK2
+重新	chóngxīn · again; once more	HSK3.0 HSK2
+收到	shōudào · to receive	HSK3.0 HSK2
+其中	qízhōng · among	HSK3.0 HSK2
+片	piàn · slice; film	HSK3.0 HSK2
+想法	xiǎngfǎ · way of thinking; opinion	HSK3.0 HSK2
+黑	hēi · black; dark	HSK3.0 HSK2
+带来	dàilái · to bring	HSK3.0 HSK2
+来自	láizì · to come from	HSK3.0 HSK2
+越	yuè · to exceed	HSK3.0 HSK2
+照顾	zhàogu · to take care of; to look after	HSK3.0 HSK2
+太太	tàitai · Mrs.; wife	HSK3.0 HSK2
+加油	jiāyóu · to add oil	HSK3.0 HSK2
+怕	pà · to fear; to be afraid	HSK3.0 HSK2
+多久	duōjiǔ · how long?	HSK3.0 HSK2
+直接	zhíjiē · direct	HSK3.0 HSK2
+店	diàn · inn; old-style hotel	HSK3.0 HSK2
+正常	zhèngcháng · regular	HSK3.0 HSK2
+船	chuán · boat; ship	HSK3.0 HSK2
+遍	biàn · everywhere	HSK3.0 HSK2
+方法	fāngfǎ · method	HSK3.0 HSK2
+克	kè · to be able to	HSK3.0 HSK2
+碰	pèng · to touch	HSK3.0 HSK2
+礼物	lǐwù · gift; present	HSK3.0 HSK2
+随便	suíbiàn · casual; as you like	HSK3.0 HSK2
+头发	tóufa · hair	HSK3.0 HSK2
+关心	guānxīn · to care about; to care for; concerned	HSK3.0 HSK2
+面	miàn · noodles; flour	HSK3.0 HSK2
+气	qì · angry; air	HSK3.0 HSK2
+自由	zìyóu · freedom; liberty	HSK3.0 HSK2
+脚	jiǎo · foot; feet	HSK3.0 HSK2
+做到	zuòdào · to accomplish	HSK3.0 HSK2
+套	tào · to cover	HSK3.0 HSK2
+哭	kū · to cry; to weep	HSK3.0 HSK2
+晚安	wǎnān · Good night!	HSK3.0 HSK2
+画	huà · painting; drawing; to draw; to paint	HSK3.0 HSK2
+年轻	niánqīng · young	HSK3.0 HSK2
+道	dào · road	HSK3.0 HSK2
+腿	tuǐ · leg; legs	HSK3.0 HSK2
+信息	xìnxī · information	HSK3.0 HSK2
+身边	shēnbiān · at one's side	HSK3.0 HSK2
+全部	quánbù · whole; all	HSK3.0 HSK2
+组	zǔ · to form	HSK3.0 HSK2
+交	jiāo · to hand over	HSK3.0 HSK2
+眼	yǎn · eye	HSK3.0 HSK2
+猫	māo · cat	HSK3.0 HSK2
+到处	dàochù · everywhere	HSK3.0 HSK2
+卡	kǎ · card	HSK3.0 HSK2
+那时	nàshí · then	HSK3.0 HSK2
+新闻	xīnwén · news	HSK3.0 HSK2
+实在	shízài · really	HSK3.0 HSK2
+行为	xíngwéi · action	HSK3.0 HSK2
+边	biān · side	HSK3.0 HSK2
+经常	jīngcháng · frequently; constantly	HSK3.0 HSK2
+词	cí · word	HSK3.0 HSK2
+差不多	chàbuduō · almost	HSK3.0 HSK2
+中心	zhōngxīn · center	HSK3.0 HSK2
+可怕	kěpà · scary; terrible	HSK3.0 HSK2
+笔	bǐ · pen	HSK3.0 HSK2
+满	mǎn · full	HSK3.0 HSK2
+假	jiǎ · fake; false	HSK3.0 HSK2
+面前	miànqián · in front of	HSK3.0 HSK2
+正确	zhèngquè · correct; right	HSK3.0 HSK2
+答应	dāying · to answer; to respond	HSK3.0 HSK2
+收	shōu · to receive; to accept	HSK3.0 HSK2
+街	jiē · street	HSK3.0 HSK2
+借	jiè · to borrow; to lend	HSK3.0 HSK2
+放下	fàngxià · to lay down	HSK3.0 HSK2
+同时	tóngshí · at the same time	HSK3.0 HSK2
+日子	rìzi · day; date; days	HSK3.0 HSK2
+座	zuò · seat	HSK3.0 HSK2
+比如	bǐrú · for example	HSK3.0 HSK2
+影响	yǐngxiǎng · influence	HSK3.0 HSK2
+米	mǐ · rice; uncooked rice	HSK3.0 HSK2
+有意思	yǒuyìsi · interesting; fun	HSK3.0 HSK2
+使用	shǐyòng · to use	HSK3.0 HSK2
+方面	fāngmiàn · respect	HSK3.0 HSK2
+银行	yínháng · bank	HSK3.0 HSK2
+原来	yuánlái · original	HSK3.0 HSK2
+讨论	tǎolùn · to discuss	HSK3.0 HSK2
+同样	tóngyàng · same	HSK3.0 HSK2
+说明	shuōmíng · to explain	HSK3.0 HSK2
+什么样	shénmeyàng · what kind?; what sort?	HSK3.0 HSK2
+安静	ānjìng · quiet; peaceful	HSK3.0 HSK2
+多么	duōme · how	HSK3.0 HSK2
+红	hóng · red	HSK3.0 HSK2
+鸡	jī · chicken; hen	HSK3.0 HSK2
+养	yǎng · to raise	HSK3.0 HSK2
+受到	shòudào · to receive	HSK3.0 HSK2
+就要	jiùyào · will	HSK3.0 HSK2
+夜	yè · night	HSK3.0 HSK2
+活动	huódòng · to exercise	HSK3.0 HSK2
+大人	dàren · adult	HSK3.0 HSK2
+通知	tōngzhī · to notify	HSK3.0 HSK2
+后来	hòulái · afterwards; later	HSK3.0 HSK2
+意见	yìjiàn · opinion; suggestion	HSK3.0 HSK2
+近	jìn · near; close	HSK3.0 HSK2
+数	shǔ · to count	HSK3.0 HSK2
+只能	zhǐnéng · can only	HSK3.0 HSK2
+动物	dòngwù · animal	HSK3.0 HSK2
+舒服	shūfu · comfortable	HSK3.0 HSK2
+通	tōng · to go through	HSK3.0 HSK2
+一般	yībān · same	HSK3.0 HSK2
+蛋	dàn · egg	HSK3.0 HSK2
+食物	shíwù · food	HSK3.0 HSK2
+封	fēng · to confer	HSK3.0 HSK2
+正是	zhèngshì · is precisely	HSK3.0 HSK2
+味道	wèidao · taste; flavor	HSK3.0 HSK2
+鱼	yú · fish	HSK3.0 HSK2
+出发	chūfā · to set off; to depart	HSK3.0 HSK2
+疼	téng · to hurt; painful; sore	HSK3.0 HSK2
+一生	yīshēng · all one's life; throughout one's life	HSK3.0 HSK2
+明星	míngxīng · star; celebrity	HSK3.0 HSK2
+晚餐	wǎncān · dinner	HSK3.0 HSK2
+服务	fúwù · to serve	HSK3.0 HSK2
+合适	héshì · suitable	HSK3.0 HSK2
+广告	guǎnggào · advertisement; ad; commercial	HSK3.0 HSK2
+闻	wén · to hear	HSK3.0 HSK2
+公平	gōngpíng · fair	HSK3.0 HSK2
+鞋	xié · shoe; shoes	HSK3.0 HSK2
+取	qǔ · to take	HSK3.0 HSK2
+短	duǎn · short	HSK3.0 HSK2
+地球	dìqiú · Earth; the earth	HSK3.0 HSK2
+经过	jīngguò · to pass	HSK3.0 HSK2
+周末	zhōumò · weekend	HSK3.0 HSK2
+信号	xìnhào · signal	HSK3.0 HSK2
+推	tuī · to push	HSK3.0 HSK2
+习惯	xíguàn · habit	HSK3.0 HSK2
+越来越	yuèláiyuè · more and more	HSK3.0 HSK2
+名单	míngdān · list of names	HSK3.0 HSK2
+公园	gōngyuán · park	HSK3.0 HSK2
+鸟	niǎo · bird	HSK3.0 HSK2
+健康	jiànkāng · health; healthy	HSK3.0 HSK2
+不够	bùgòu · not enough	HSK3.0 HSK2
+方向	fāngxiàng · direction	HSK3.0 HSK2
+接着	jiēzhe · to catch and hold on	HSK3.0 HSK2
+高中	gāozhōng · senior high school	HSK3.0 HSK2
+正好	zhènghǎo · just	HSK3.0 HSK2
+旅行	lǚxíng · to travel; trip; journey	HSK3.0 HSK2
+酒店	jiǔdiàn · hotel	HSK3.0 HSK2
+随时	suíshí · at any time; at all times	HSK3.0 HSK2
+度	dù · degree	HSK3.0 HSK2
+背	bèi · back	HSK3.0 HSK2
+节	jié · festival; section	HSK3.0 HSK2
+排	pái · a row	HSK3.0 HSK2
+许多	xǔduō · many	HSK3.0 HSK2
+瓶	píng · bottle	HSK3.0 HSK2
+顺利	shùnlì · smoothly; without a hitch	HSK3.0 HSK2
+改	gǎi · to change	HSK3.0 HSK2
+不少	bùshǎo · many	HSK3.0 HSK2
+好事	hǎoshì · good deed	HSK3.0 HSK2
+客人	kèrén · guest	HSK3.0 HSK2
+运动	yùndòng · sports; exercise; to exercise	HSK3.0 HSK2
+爬	pá · to climb; to crawl	HSK3.0 HSK2
+爱情	àiqíng · romance; love	HSK3.0 HSK2
+十分	shífēn · very	HSK3.0 HSK2
+超过	chāoguò · to surpass	HSK3.0 HSK2
+想起	xiǎngqǐ · to recall	HSK3.0 HSK2
+吹	chuī · to blow	HSK3.0 HSK2
+目的	mùdì · purpose; aim	HSK3.0 HSK2
+急	jí · urgent	HSK3.0 HSK2
+低	dī · low	HSK3.0 HSK2
+故意	gùyì · deliberately; on purpose	HSK3.0 HSK2
+心里	xīnli · chest	HSK3.0 HSK2
+好人	hǎorén · good person	HSK3.0 HSK2
+长大	zhǎngdà · to grow up	HSK3.0 HSK2
+交给	jiāogěi · to give; to deliver	HSK3.0 HSK2
+好处	hǎochù · benefit; advantage	HSK3.0 HSK2
+海	hǎi · sea; ocean	HSK3.0 HSK2
+普通	pǔtōng · ordinary; common	HSK3.0 HSK2
+出生	chūshēng · to be born	HSK3.0 HSK2
+经理	jīnglǐ · manager	HSK3.0 HSK2
+作用	zuòyòng · to act on	HSK3.0 HSK2
+举	jǔ · to lift	HSK3.0 HSK2
+队长	duìzhǎng · captain	HSK3.0 HSK2
+层	céng · to pile on top of one another	HSK3.0 HSK2
+报纸	bàozhǐ · newspaper	HSK3.0 HSK2
+颜色	yánsè · color; colour	HSK3.0 HSK2
+墙	qiáng · wall	HSK3.0 HSK2
+流	liú · to flow	HSK3.0 HSK2
+请求	qǐngqiú · to request; to ask	HSK3.0 HSK2
+小组	xiǎozǔ · group	HSK3.0 HSK2
+灯	dēng · lamp; light	HSK3.0 HSK2
+练习	liànxí · exercise; to practice	HSK3.0 HSK2
+蓝	lán · blue	HSK3.0 HSK2
+心情	xīnqíng · mood; frame of mind	HSK3.0 HSK2
+难过	nánguò · sad; upset	HSK3.0 HSK2
+停车	tíngchē · to pull up	HSK3.0 HSK2
+条件	tiáojiàn · condition; circumstance	HSK3.0 HSK2
+接到	jiēdào · to receive	HSK3.0 HSK2
+上周	shàngzhōu · last week	HSK3.0 HSK2
+司机	sījī · driver	HSK3.0 HSK2
+千	qiān · thousand	HSK3.0 HSK2
+碰到	pèngdào · to come across	HSK3.0 HSK2
+出租车	chūzūchē · taxi; cab	HSK3.0 HSK2
+主人	zhǔrén · host; owner	HSK3.0 HSK2
+表	biǎo · exterior surface	HSK3.0 HSK2
+红色	hóngsè · red	HSK3.0 HSK2
+油	yóu · oil	HSK3.0 HSK2
+干杯	gānbēi · to drink a toast	HSK3.0 HSK2
+看法	kànfǎ · way of looking at a thing	HSK3.0 HSK2
+脏	zāng · dirty	HSK3.0 HSK2
+走开	zǒukāi · to leave	HSK3.0 HSK2
+满意	mǎnyì · satisfied	HSK3.0 HSK2
+大多数	dàduōshù · majority	HSK3.0 HSK2
+数字	shùzì · number; digit	HSK3.0 HSK2
+纸	zhǐ · paper	HSK3.0 HSK2
+称	chēng · to call; to weigh	HSK3.0 HSK2
+骑	qí · to ride	HSK3.0 HSK2
+太阳	tàiyang · sun	HSK3.0 HSK2
+午餐	wǔcān · lunch	HSK3.0 HSK2
+提出	tíchū · to raise	HSK3.0 HSK2
+笑话	xiàohua · joke; to laugh at	HSK3.0 HSK2
+响	xiǎng · echo	HSK3.0 HSK2
+省	shěng · to save; to economize	HSK3.0 HSK2
+科学	kēxué · science	HSK3.0 HSK2
+道理	dàoli · reason	HSK3.0 HSK2
+主要	zhǔyào · main; major	HSK3.0 HSK2
+同事	tóngshì · colleague; coworker	HSK3.0 HSK2
+喊	hǎn · to yell	HSK3.0 HSK2
+讲话	jiǎnghuà · a speech	HSK3.0 HSK2
+早就	zǎojiù · already at an earlier time	HSK3.0 HSK2
+大部分	dàbùfen · in large part	HSK3.0 HSK2
+空气	kōngqì · air	HSK3.0 HSK2
+角	jiǎo · angle	HSK3.0 HSK2
+实现	shíxiàn · to achieve	HSK3.0 HSK2
+市	shì · market	HSK3.0 HSK2
+蓝色	lánsè · blue	HSK3.0 HSK2
+年级	niánjí · grade; year in school	HSK3.0 HSK2
+提到	tídào · to mention	HSK3.0 HSK2
+好多	hǎoduō · many	HSK3.0 HSK2
+分开	fēnkāi · to separate	HSK3.0 HSK2
+租	zū · to hire	HSK3.0 HSK2
+篇	piān · sheet	HSK3.0 HSK2
+科	kē · branch of study	HSK3.0 HSK2
+重复	chóngfù · to repeat	HSK3.0 HSK2
+态度	tàidu · manner	HSK3.0 HSK2
+早餐	zǎocān · breakfast	HSK3.0 HSK2
+角度	jiǎodù · angle	HSK3.0 HSK2
+轻	qīng · light (weight)	HSK3.0 HSK2
+英语	Yīngyǔ · English	HSK3.0 HSK2
+椅子	yǐzi · chair	HSK3.0 HSK2
+相同	xiāngtóng · the same; identical	HSK3.0 HSK2
+重点	zhòngdiǎn · key point	HSK3.0 HSK2
+教育	jiàoyù · to educate	HSK3.0 HSK2
+亮	liàng · bright; shiny	HSK3.0 HSK2
+全国	quánguó · whole nation	HSK3.0 HSK2
+放心	fàngxīn · relieved; to be at ease; to rest assured	HSK3.0 HSK2
+河	hé · river	HSK3.0 HSK2
+平	píng · flat	HSK3.0 HSK2
+的话	dehuà · if	HSK3.0 HSK2
+语言	yǔyán · language	HSK3.0 HSK2
+小时候	xiǎoshíhou · in childhood; as a child	HSK3.0 HSK2
+练	liàn · to practice	HSK3.0 HSK2
+举行	jǔxíng · to hold (an event)	HSK3.0 HSK2
+夏天	xiàtiān · summer	HSK3.0 HSK2
+热情	rèqíng · enthusiastic; warm; passionate	HSK3.0 HSK2
+国际	guójì · international	HSK3.0 HSK2
+信心	xìnxīn · confidence	HSK3.0 HSK2
+送给	sònggěi · to send	HSK3.0 HSK2
+市长	shìzhǎng · mayor	HSK3.0 HSK2
+接下来	jiēxiàlái · to accept	HSK3.0 HSK2
+信用卡	xìnyòngkǎ · credit card	HSK3.0 HSK2
+早晨	zǎochén · morning; early morning	HSK3.0 HSK2
+出口	chūkǒu · an exit	HSK3.0 HSK2
+黑色	hēisè · black	HSK3.0 HSK2
+姓	xìng · family name	HSK3.0 HSK2
+作家	zuòjiā · writer; author	HSK3.0 HSK2
+级	jí · level	HSK3.0 HSK2
+好久	hǎojiǔ · quite a while	HSK3.0 HSK2
+顾客	gùkè · customer	HSK3.0 HSK2
+方便	fāngbiàn · convenient	HSK3.0 HSK2
+黄	huáng · yellow	HSK3.0 HSK2
+观点	guāndiǎn · point of view	HSK3.0 HSK2
+小说	xiǎoshuō · novel; fiction	HSK3.0 HSK2
+雪	xuě · snow	HSK3.0 HSK2
+交通	jiāotōng · traffic; transportation	HSK3.0 HSK2
+洗澡	xǐzǎo · to bathe; to take a shower	HSK3.0 HSK2
+公路	gōnglù · highway	HSK3.0 HSK2
+校长	xiàozhǎng · principal; headmaster	HSK3.0 HSK2
+坏人	huàirén · bad person	HSK3.0 HSK2
+水平	shuǐpíng · level	HSK3.0 HSK2
+作业	zuòyè · homework; assignment	HSK3.0 HSK2
+高级	gāojí · high level	HSK3.0 HSK2
+取得	qǔdé · to acquire; to get	HSK3.0 HSK2
+熟	shú · ripe; mature	HSK3.0 HSK2
+座位	zuòwèi · seat	HSK3.0 HSK2
+绿色	lǜsè · green	HSK3.0 HSK2
+白色	báisè · white	HSK3.0 HSK2
+心中	xīnzhōng · central point	HSK3.0 HSK2
+老朋友	lǎopéngyou · old friend	HSK3.0 HSK2
+不久	bùjiǔ · not long	HSK3.0 HSK2
+便宜	piányi · cheap; inexpensive	HSK3.0 HSK2
+停车场	tíngchēchǎng · parking lot; car park	HSK3.0 HSK2
+大量	dàliàng · great amount	HSK3.0 HSK2
+占	zhàn · to occupy; to take up	HSK3.0 HSK2
+咱	zán · I or me	HSK3.0 HSK2
+比如说	bǐrúshuō · for example	HSK3.0 HSK2
+湖	hú · lake	HSK3.0 HSK2
+网站	wǎngzhàn · website	HSK3.0 HSK2
+成绩	chéngjì · grades; results; score	HSK3.0 HSK2
+网	wǎng · net; internet; web	HSK3.0 HSK2
+碗	wǎn · bowl	HSK3.0 HSK2
+商量	shāngliang · to consult	HSK3.0 HSK2
+站住	zhànzhù · to stand	HSK3.0 HSK2
+以外	yǐwài · apart from	HSK3.0 HSK2
+科学家	kēxuéjiā · scientist	HSK3.0 HSK2
+快要	kuàiyào · nearly at the point of; about to	HSK3.0 HSK2
+南方	nánfāng · south	HSK3.0 HSK2
+绿	lǜ · green	HSK3.0 HSK2
+花园	huāyuán · garden	HSK3.0 HSK2
+草	cǎo · grass	HSK3.0 HSK2
+大声	dàshēng · loud voice	HSK3.0 HSK2
+全身	quánshēn · the whole body	HSK3.0 HSK2
+篮球	lánqiú · basketball	HSK3.0 HSK2
+流行	liúxíng · to spread	HSK3.0 HSK2
+对话	duìhuà · to talk	HSK3.0 HSK2
+自行车	zìxíngchē · bicycle; bike	HSK3.0 HSK2
+平常	píngcháng · ordinary	HSK3.0 HSK2
+以下	yǐxià · that level or lower	HSK3.0 HSK2
+提高	tígāo · to raise; to improve	HSK3.0 HSK2
+亿	yì · hundred million	HSK3.0 HSK2
+等于	děngyú · to equal	HSK3.0 HSK2
+家长	jiāzhǎng · head of a household	HSK3.0 HSK2
+实际	shíjì · reality	HSK3.0 HSK2
+起飞	qǐfēi · to take off	HSK3.0 HSK2
+友好	yǒuhǎo · friendly	HSK3.0 HSK2
+晚会	wǎnhuì · evening party; gala	HSK3.0 HSK2
+广场	guǎngchǎng · square; plaza	HSK3.0 HSK2
+黄色	huángsè · yellow	HSK3.0 HSK2
+星星	xīngxing · star; stars	HSK3.0 HSK2
+球队	qiúduì · sports team	HSK3.0 HSK2
+出门	chūmén · to go out	HSK3.0 HSK2
+准确	zhǔnquè · accurate; exact	HSK3.0 HSK2
+平时	píngshí · usually; normally	HSK3.0 HSK2
+对面	duìmiàn · opposite	HSK3.0 HSK2
+懂得	dǒngde · to understand; to know	HSK3.0 HSK2
+地铁	dìtiě · subway; metro	HSK3.0 HSK2
+道路	dàolù · road	HSK3.0 HSK2
+体育	tǐyù · sports; physical education; PE	HSK3.0 HSK2
+大门	dàmén · entrance	HSK3.0 HSK2
+理想	lǐxiǎng · an ideal	HSK3.0 HSK2
+刻	kè · quarter hour; quarter	HSK3.0 HSK2
+假期	jiàqī · vacation; holiday	HSK3.0 HSK2
+题	tí · topic	HSK3.0 HSK2
+感动	gǎndòng · moved; touched; to move	HSK3.0 HSK2
+不如	bùrú · not equal to	HSK3.0 HSK2
+护照	hùzhào · passport	HSK3.0 HSK2
+节日	jiérì · holiday; festival	HSK3.0 HSK2
+难受	nánshòu · uncomfortable; to feel unwell; upset	HSK3.0 HSK2
+院	yuàn · courtyard	HSK3.0 HSK2
+人口	rénkǒu · population	HSK3.0 HSK2
+相机	xiàngjī · camera	HSK3.0 HSK2
+收入	shōurù · income	HSK3.0 HSK2
+公里	gōnglǐ · kilometer	HSK3.0 HSK2
+全体	quántǐ · all	HSK3.0 HSK2
+做饭	zuòfàn · to cook; to make a meal	HSK3.0 HSK2
+半夜	bànyè · midnight; middle of the night	HSK3.0 HSK2
+以上	yǐshàng · that level or higher	HSK3.0 HSK2
+入口	rùkǒu · entrance	HSK3.0 HSK2
+做法	zuòfǎ · way of handling sth	HSK3.0 HSK2
+平安	píngān · safe and sound	HSK3.0 HSK2
+手表	shǒubiǎo · watch; wristwatch	HSK3.0 HSK2
+爱人	àiren · spouse	HSK3.0 HSK2
+一共	yīgòng · altogether	HSK3.0 HSK2
+姓名	xìngmíng · full name	HSK3.0 HSK2
+瓶子	píngzi · bottle	HSK3.0 HSK2
+教师	jiàoshī · teacher	HSK3.0 HSK2
+大海	dàhǎi · sea; ocean	HSK3.0 HSK2
+组成	zǔchéng · to form	HSK3.0 HSK2
+参观	cānguān · to look around	HSK3.0 HSK2
+车辆	chēliàng · vehicle	HSK3.0 HSK2
+周年	zhōunián · anniversary	HSK3.0 HSK2
+旅游	lǚyóu · to travel; tourism; trip	HSK3.0 HSK2
+单位	dānwèi · unit	HSK3.0 HSK2
+图片	túpiàn · picture; photograph	HSK3.0 HSK2
+影片	yǐngpiàn · a copy of a film	HSK3.0 HSK2
+全家	quánjiā · whole family	HSK3.0 HSK2
+春天	chūntiān · spring	HSK3.0 HSK2
+人数	rénshù · number of people	HSK3.0 HSK2
+天上	tiānshàng · in the sky	HSK3.0 HSK2
+超市	chāoshì · supermarket	HSK3.0 HSK2
+排队	páiduì · to line up	HSK3.0 HSK2
+例如	lìrú · for example; for instance	HSK3.0 HSK2
+冬天	dōngtiān · winter	HSK3.0 HSK2
+海边	hǎibiān · seaside; beach	HSK3.0 HSK2
+月亮	yuèliang · moon	HSK3.0 HSK2
+凉	liáng · cool	HSK3.0 HSK2
+音乐会	yīnyuèhuì · concert	HSK3.0 HSK2
+温度	wēndù · temperature	HSK3.0 HSK2
+青少年	qīngshàonián · adolescent	HSK3.0 HSK2
+饱	bǎo · full (from eating); full	HSK3.0 HSK2
+小声	xiǎoshēng · in a low voice	HSK3.0 HSK2
+老是	lǎoshi · always	HSK3.0 HSK2
+住院	zhùyuàn · to be in hospital	HSK3.0 HSK2
+球场	qiúchǎng · court; field; pitch	HSK3.0 HSK2
+计算机	jìsuànjī · computer	HSK3.0 HSK2
+例子	lìzi · case	HSK3.0 HSK2
+商人	shāngrén · merchant	HSK3.0 HSK2
+笔记本	bǐjìběn · notebook; laptop	HSK3.0 HSK2
+少年	shàonián · early youth	HSK3.0 HSK2
+院子	yuànzi · yard; courtyard	HSK3.0 HSK2
+大小	dàxiǎo · dimension	HSK3.0 HSK2
+校园	xiàoyuán · campus	HSK3.0 HSK2
+教室	jiàoshì · classroom	HSK3.0 HSK2
+休假	xiūjià · to go on vacation; to have a holiday	HSK3.0 HSK2
+实习	shíxí · to practice	HSK3.0 HSK2
+云	yún · cloud	HSK3.0 HSK2
+路边	lùbiān · curb; roadside	HSK3.0 HSK2
+学期	xuéqī · semester; term	HSK3.0 HSK2
+这时	zhèshí · at this time	HSK3.0 HSK2
+大大	dàdà · greatly	HSK3.0 HSK2
+从小	cóngxiǎo · from childhood	HSK3.0 HSK2
+阴	yīn · cloudy; overcast	HSK3.0 HSK2
+网球	wǎngqiú · tennis	HSK3.0 HSK2
+走过	zǒuguò · to walk past	HSK3.0 HSK2
+这时候	zhèshíhòu · At this moment	HSK3.0 HSK2
+大衣	dàyī · overcoat; coat	HSK3.0 HSK2
+菜单	càidān · menu	HSK3.0 HSK2
+北方	běifāng · north	HSK3.0 HSK2
+青年	qīngnián · youth	HSK3.0 HSK2
+动物园	dòngwùyuán · zoo	HSK3.0 HSK2
+今后	jīnhòu · hereafter	HSK3.0 HSK2
+夜里	yèli · at night; during the night	HSK3.0 HSK2
+打工	dǎgōng · to work a temporary or casual job	HSK3.0 HSK2
+等到	děngdào · to wait until	HSK3.0 HSK2
+多数	duōshù · majority; most	HSK3.0 HSK2
+平等	píngděng · equal	HSK3.0 HSK2
+画家	huàjiā · painter	HSK3.0 HSK2
+重视	zhòngshì · to attach importance to sth; to value	HSK3.0 HSK2
+英文	Yīngwén · English	HSK3.0 HSK2
+照相	zhàoxiàng · to take a photo	HSK3.0 HSK2
+出租	chūzū · to rent	HSK3.0 HSK2
+举手	jǔshǒu · to raise a hand	HSK3.0 HSK2
+笔记	bǐjì · to take down	HSK3.0 HSK2
+常见	chángjiàn · commonly seen	HSK3.0 HSK2
+不但	bùdàn · not only	HSK3.0 HSK2
+请客	qǐngkè · to give a dinner party	HSK3.0 HSK2
+西方	Xīfāng · the West	HSK3.0 HSK2
+不满	bùmǎn · resentful	HSK3.0 HSK2
+秋天	qiūtiān · autumn; fall	HSK3.0 HSK2
+分数	fēnshù · grade	HSK3.0 HSK2
+忽然	hūrán · suddenly; all of a sudden	HSK3.0 HSK2
+里头	lǐtou · inside	HSK3.0 HSK2
+少数	shǎoshù · small number	HSK3.0 HSK2
+得出	déchū · to obtain; to arrive at	HSK3.0 HSK2
+体育馆	tǐyùguǎn · gym; stadium	HSK3.0 HSK2
+一部分	yībùfen · portion	HSK3.0 HSK2
+拿到	nádào · to get	HSK3.0 HSK2
+游客	yóukè · traveler	HSK3.0 HSK2
+特点	tèdiǎn · characteristic	HSK3.0 HSK2
+出院	chūyuàn · to leave hospital	HSK3.0 HSK2
+报名	bàomíng · to sign up	HSK3.0 HSK2
+公斤	gōngjīn · kilogram	HSK3.0 HSK2
+那会儿	nàhuìr · at that time	HSK3.0 HSK2
+院长	yuànzhǎng · the head of an institution whose name ends in 院	HSK3.0 HSK2
+骑车	qíchē · to ride a bike	HSK3.0 HSK2
+难题	nántí · difficult problem	HSK3.0 HSK2
+个子	gèzi · height	HSK3.0 HSK2
+药片	yàopiàn · a  pill or tablet	HSK3.0 HSK2
+东方	dōngfāng · east	HSK3.0 HSK2
+西北	xīběi · northwest	HSK3.0 HSK2
+教学	jiàoxué · teaching; education	HSK3.0 HSK2
+中年	zhōngnián · middle age	HSK3.0 HSK2
+大自然	dàzìrán · nature	HSK3.0 HSK2
+碰见	pèngjiàn · to run into	HSK3.0 HSK2
+关机	guānjī · to turn off	HSK3.0 HSK2
+出国	chūguó · to go abroad; to leave the country	HSK3.0 HSK2
+草地	cǎodì · grassland; lawn; meadow	HSK3.0 HSK2
+下雪	xiàxuě · to snow	HSK3.0 HSK2
+打印	dǎyìn · to affix a seal	HSK3.0 HSK2
+课堂	kètáng · classroom	HSK3.0 HSK2
+复习	fùxí · to review; to revise	HSK3.0 HSK2
+旅客	lǚkè · traveler; tourist	HSK3.0 HSK2
+点头	diǎntóu · to nod	HSK3.0 HSK2
+坏处	huàichu · harm	HSK3.0 HSK2
+西南	xīnán · southwest	HSK3.0 HSK2
+字典	zìdiǎn · Chinese character dictionary	HSK3.0 HSK2
+东北	dōngběi · northeast	HSK3.0 HSK2
+日报	rìbào · daily newspaper	HSK3.0 HSK2
+名称	míngchēng · name	HSK3.0 HSK2
+洗衣机	xǐyījī · washing machine	HSK3.0 HSK2
+药店	yàodiàn · pharmacy	HSK3.0 HSK2
+词语	cíyǔ · word	HSK3.0 HSK2
+一路顺风	yīlùshùnfēng · to have a pleasant journey	HSK3.0 HSK2
+快餐	kuàicān · fast food	HSK3.0 HSK2
+月份	yuèfèn · month	HSK3.0 HSK2
+体育场	tǐyùchǎng · stadium	HSK3.0 HSK2
+句子	jùzi · sentence	HSK3.0 HSK2
+班长	bānzhǎng · class monitor	HSK3.0 HSK2
+凉快	liángkuai · cool; pleasantly cool	HSK3.0 HSK2
+气温	qìwēn · temperature; air temperature	HSK3.0 HSK2
+球鞋	qiúxié · athletic shoes	HSK3.0 HSK2
+地铁站	dìtiězhàn · subway station	HSK3.0 HSK2
+老年	lǎonián · elderly	HSK3.0 HSK2
+开学	kāixué · foundation of a University or College	HSK3.0 HSK2
+难看	nánkàn · ugly	HSK3.0 HSK2
+中餐	zhōngcān · lunch	HSK3.0 HSK2
+筷子	kuàizi · chopsticks	HSK3.0 HSK2
+外地	wàidì · parts of the country other than where one is	HSK3.0 HSK2
+回国	huíguó · to return to one's home country	HSK3.0 HSK2
+开机	kāijī · to start an engine	HSK3.0 HSK2
+送到	sòngdào · Deliver	HSK3.0 HSK2
+住房	zhùfáng · housing	HSK3.0 HSK2
+爬山	páshān · to climb a mountain; hiking	HSK3.0 HSK2
+常用	chángyòng · in common usage	HSK3.0 HSK2
+黑板	hēibǎn · blackboard; chalkboard	HSK3.0 HSK2
+叫作	jiàozuò · to call	HSK3.0 HSK2
+组长	zǔzhǎng · group leader	HSK3.0 HSK2
+东南	dōngnán · southeast	HSK3.0 HSK2
+斤	jīn · catty	HSK3.0 HSK2
+行人	xíngrén · pedestrian	HSK3.0 HSK2
+晴	qíng · sunny; clear	HSK3.0 HSK2
+交朋友	jiāopéngyou · to make friends	HSK3.0 HSK2
+药水	yàoshuǐ · medicine in liquid form	HSK3.0 HSK2
+饭馆	fànguǎn · restaurant	HSK3.0 HSK2
+作文	zuòwén · to write an essay	HSK3.0 HSK2
+音节	yīnjié · syllable	HSK3.0 HSK2
+零下	língxià · below zero	HSK3.0 HSK2
+排球	páiqiú · volleyball	HSK3.0 HSK2
+饺子	jiǎozi · dumplings	HSK3.0 HSK2
+晴天	qíngtiān · sunny day; clear day	HSK3.0 HSK2
+走进	zǒujìn · to enter	HSK3.0 HSK2
+流利	liúlì · fluent	HSK3.0 HSK2
+问路	wènlù · to ask for directions	HSK3.0 HSK2
+难听	nántīng · unpleasant to hear	HSK3.0 HSK2
+一点点	yīdiǎndiǎn · a little bit	HSK3.0 HSK2
+词典	cídiǎn · dictionary	HSK3.0 HSK2
+普通话	pǔtōnghuà · Mandarin	HSK3.0 HSK2
+方便面	fāngbiànmiàn · instant noodles	HSK3.0 HSK2
+午睡	wǔshuì · to take a nap	HSK3.0 HSK2
+千克	qiānkè · kilogram	HSK3.0 HSK2
+听讲	tīngjiǎng · to attend a lecture	HSK3.0 HSK2
+前年	qiánnián · the year before last	HSK3.0 HSK2
+拿出	náchū · to take out	HSK3.0 HSK2
+晚报	wǎnbào · evening newspaper	HSK3.0 HSK2
+过年	guònián · to celebrate the Chinese New Year	HSK3.0 HSK2
+干活儿	gànhuór · to work; to be employed	HSK3.0 HSK2
+全年	quánnián · the whole year	HSK3.0 HSK2
+读音	dúyīn · pronunciation	HSK3.0 HSK2
+中级	zhōngjí · middle level	HSK3.0 HSK2
+中医	Zhōngyī · traditional Chinese medical science	HSK3.0 HSK2
+西医	xīyī · Western medicine	HSK3.0 HSK2
+阴天	yīntiān · cloudy day; overcast day	HSK3.0 HSK2
+不一会儿	bùyīhuǐr5 · Take a short while	HSK3.0 HSK2
+留学生	liúxuéshēng · international student	HSK3.0 HSK2
+西餐	xīcān · Western-style food	HSK3.0 HSK2
+春节	Chūnjié · Spring Festival; Chinese New Year	HSK3.0 HSK2
+考生	kǎoshēng · exam candidate	HSK3.0 HSK2
+中小学	zhōngxiǎoxué · middle and elementary school	HSK3.0 HSK2
+不太	bùtài · Not too	HSK3.0 HSK2
+生词	shēngcí · new word; vocabulary	HSK3.0 HSK2
+一路平安	yīlùpíngān · to have a pleasant journey	HSK3.0 HSK2
+下周	xiàzhōu · next week	HSK3.0 HSK2
+不一定	bùyīdìng · not necessarily	HSK3.0 HSK2
+公交车	gōngjiāochē · bus	HSK3.0 HSK2
+公共汽车	gōnggòngqìchē · bus	HSK3.0 HSK2
+外卖	wàimài · to provide a takeout or home delivery meal	HSK3.0 HSK2
+多云	duōyún · cloudy	HSK3.0 HSK2
+快点儿	kuàidiǎnr · to do sth more quickly	HSK3.0 HSK2
+找出	zhǎochū · to find	HSK3.0 HSK2
+挺好	tǐnghǎo · very good	HSK3.0 HSK2
+有一点儿	yǒuyīdiǎnr · a bit	HSK3.0 HSK2
+有点儿	yǒudiǎnr · slightly	HSK3.0 HSK2
+有空儿	yǒukòngr5 · available	HSK3.0 HSK2
+画儿	huàr · picture	HSK3.0 HSK2
+短信	duǎnxìn · text message	HSK3.0 HSK2
+笑话儿	xiàohuar5 · Joke	HSK3.0 HSK2
+见过	jiànguò · seen	HSK3.0 HSK2
+那时候	nàshíhou · at that time	HSK3.0 HSK2
+银行卡	yínhángkǎ · bank card	HSK3.0 HSK2

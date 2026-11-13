@@ -1,0 +1,1130 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:HSK 3.0::HSK 6
+#tags column:3
+#columns:Front	Back	Tags
+抱歉	bàoqiàn · sorry; apologetic	HSK3.0 HSK6
+嘛	ma · says something is obvious: 他是孩子嘛 (He's a kid, after all)	HSK3.0 HSK6
+上帝	Shàngdì · God	HSK3.0 HSK6
+与	yǔ · and	HSK3.0 HSK6
+啦	la · cheerful 'already' or 'now': 好啦 (OK now)	HSK3.0 HSK6
+哇	wā · Wow!	HSK3.0 HSK6
+另	lìng · other	HSK3.0 HSK6
+于	yú · to go	HSK3.0 HSK6
+闭	bì · to close	HSK3.0 HSK6
+如	rú · as	HSK3.0 HSK6
+同	tóng · like	HSK3.0 HSK6
+特	tè · special	HSK3.0 HSK6
+作	zuò · to do; to make	HSK3.0 HSK6
+集	jí · to gather	HSK3.0 HSK6
+酷	kù · cool	HSK3.0 HSK6
+死亡	sǐwáng · to die	HSK3.0 HSK6
+不再	búzài · no longer	HSK3.0 HSK6
+犯	fàn · to violate	HSK3.0 HSK6
+有关	yǒuguān · to have sth to do with	HSK3.0 HSK6
+凶手	xiōngshǒu · murderer	HSK3.0 HSK6
+命	mìng · life	HSK3.0 HSK6
+藏	cáng · to conceal	HSK3.0 HSK6
+从没	cóngméi · never	HSK3.0 HSK6
+毁	huǐ · to destroy; to ruin	HSK3.0 HSK6
+投票	tóupiào · to vote	HSK3.0 HSK6
+混	hùn · to mix; to muddle along	HSK3.0 HSK6
+犯罪	fànzuì · to commit a crime	HSK3.0 HSK6
+道歉	dàoqiàn · to apologize	HSK3.0 HSK6
+原谅	yuánliàng · to forgive; to excuse	HSK3.0 HSK6
+超	chāo · to exceed	HSK3.0 HSK6
+威胁	wēixié · to threaten; to menace	HSK3.0 HSK6
+尽	jǐn · to the greatest extent	HSK3.0 HSK6
+岛	dǎo · island	HSK3.0 HSK6
+因	yīn · cause	HSK3.0 HSK6
+清	qīng · clear; clean	HSK3.0 HSK6
+舞蹈	wǔdǎo · dance	HSK3.0 HSK6
+算是	suànshì · considered to be	HSK3.0 HSK6
+最终	zuìzhōng · final; ultimate	HSK3.0 HSK6
+英雄	yīngxióng · hero	HSK3.0 HSK6
+副	fù · secondary	HSK3.0 HSK6
+罪	zuì · guilt	HSK3.0 HSK6
+允许	yǔnxǔ · to permit	HSK3.0 HSK6
+攻击	gōngjī · to attack	HSK3.0 HSK6
+为何	wèihé · why	HSK3.0 HSK6
+要么	yàome · or	HSK3.0 HSK6
+逼	bī · to force	HSK3.0 HSK6
+入	rù · to enter	HSK3.0 HSK6
+遗憾	yíhàn · regret; pity; a shame	HSK3.0 HSK6
+毒品	dúpǐn · drugs	HSK3.0 HSK6
+愉快	yúkuài · pleasant; cheerful; happy	HSK3.0 HSK6
+爆炸	bàozhà · explosion	HSK3.0 HSK6
+便	biàn · plain	HSK3.0 HSK6
+样	yàng · manner	HSK3.0 HSK6
+法庭	fǎtíng · court of law	HSK3.0 HSK6
+炸弹	zhàdàn · bomb	HSK3.0 HSK6
+踢	tī · to kick	HSK3.0 HSK6
+再说	zàishuō · to say again	HSK3.0 HSK6
+肯	kěn · to agree; to consent	HSK3.0 HSK6
+教堂	jiàotáng · church	HSK3.0 HSK6
+爽	shuǎng · bright	HSK3.0 HSK6
+救命	jiùmìng · to save sb's life	HSK3.0 HSK6
+赛	sài · to compete	HSK3.0 HSK6
+将军	jiāngjūn · general	HSK3.0 HSK6
+惊喜	jīngxǐ · nice surprise	HSK3.0 HSK6
+拿走	názǒu · to take away	HSK3.0 HSK6
+骄傲	jiāoào · proud; arrogant	HSK3.0 HSK6
+利	lì · sharp	HSK3.0 HSK6
+错过	cuòguò · to miss	HSK3.0 HSK6
+之类	zhīlèi · and so on	HSK3.0 HSK6
+搭档	dādàng · to cooperate	HSK3.0 HSK6
+赚	zhuàn · to earn	HSK3.0 HSK6
+自我	zìwǒ · self-	HSK3.0 HSK6
+赌	dǔ · to bet	HSK3.0 HSK6
+队伍	duìwǔ · ranks	HSK3.0 HSK6
+聊	liáo · to chat	HSK3.0 HSK6
+军队	jūnduì · armed forces; troops	HSK3.0 HSK6
+拖	tuō · to drag	HSK3.0 HSK6
+心脏	xīnzàng · heart	HSK3.0 HSK6
+起诉	qǐsù · to sue	HSK3.0 HSK6
+国王	guówáng · king	HSK3.0 HSK6
+理	lǐ · texture	HSK3.0 HSK6
+挖	wā · to dig	HSK3.0 HSK6
+塞	sāi · to stop up	HSK3.0 HSK6
+无关	wúguān · unrelated	HSK3.0 HSK6
+招	zhāo · to recruit	HSK3.0 HSK6
+炸	zhá · to deep fry	HSK3.0 HSK6
+厕所	cèsuǒ · toilet; restroom	HSK3.0 HSK6
+搭	dā · to put up	HSK3.0 HSK6
+权	quán · authority	HSK3.0 HSK6
+原	yuán · former	HSK3.0 HSK6
+圣诞节	Shèngdànjié · Christmas time	HSK3.0 HSK6
+镇	zhèn · to press down	HSK3.0 HSK6
+若	ruò · to seem	HSK3.0 HSK6
+档案	dàngàn · file	HSK3.0 HSK6
+说实话	shuōshíhuà · to speak the truth	HSK3.0 HSK6
+趟	tàng · measure word for trips: 去一趟 to make a trip	HSK3.0 HSK6
+天堂	tiāntáng · paradise	HSK3.0 HSK6
+大街	dàjiē · street	HSK3.0 HSK6
+留言	liúyán · to leave a message	HSK3.0 HSK6
+录像	lùxiàng · to videotape	HSK3.0 HSK6
+炒	chǎo · to sauté	HSK3.0 HSK6
+情绪	qíngxù · mood; emotions	HSK3.0 HSK6
+暴力	bàolì · violence	HSK3.0 HSK6
+牺牲	xīshēng · to sacrifice one's life	HSK3.0 HSK6
+愤怒	fènnù · angry	HSK3.0 HSK6
+据	jù · according to	HSK3.0 HSK6
+塔	tǎ · pagoda	HSK3.0 HSK6
+船长	chuánzhǎng · captain	HSK3.0 HSK6
+团队	tuánduì · team	HSK3.0 HSK6
+罢了	bàle · 'that's all', 'merely': 开玩笑罢了 (Just joking)	HSK3.0 HSK6
+绝	jué · to cut short	HSK3.0 HSK6
+信仰	xìnyǎng · to believe in	HSK3.0 HSK6
+印	yìn · to print	HSK3.0 HSK6
+孤独	gūdú · lonely	HSK3.0 HSK6
+最佳	zuìjiā · optimum	HSK3.0 HSK6
+伤口	shāngkǒu · wound	HSK3.0 HSK6
+夺	duó · to seize	HSK3.0 HSK6
+承诺	chéngnuò · to promise	HSK3.0 HSK6
+不见	bújiàn · to be gone; to disappear	HSK3.0 HSK6
+埋	mái · to bury	HSK3.0 HSK6
+解	jiě · to divide	HSK3.0 HSK6
+公主	gōngzhǔ · princess	HSK3.0 HSK6
+露	lù · to reveal; dew	HSK3.0 HSK6
+幻想	huànxiǎng · delusion	HSK3.0 HSK6
+不仅仅	bùjǐnjǐn · not only; not just	HSK3.0 HSK6
+能否	néngfǒu · whether or not	HSK3.0 HSK6
+血液	xuèyè · blood	HSK3.0 HSK6
+部队	bùduì · army	HSK3.0 HSK6
+权力	quánlì · power	HSK3.0 HSK6
+三明治	sānmíngzhì · sandwich	HSK3.0 HSK6
+学会	xuéhuì · to learn	HSK3.0 HSK6
+联盟	liánméng · alliance	HSK3.0 HSK6
+觉	jué · to feel; to sense	HSK3.0 HSK6
+聊天	liáotiānr · to chat	HSK3.0 HSK6
+泡	pào · bubble; to soak	HSK3.0 HSK6
+隐藏	yǐncáng · to hide	HSK3.0 HSK6
+激情	jīqíng · passion	HSK3.0 HSK6
+当作	dàngzuò · to treat as	HSK3.0 HSK6
+王子	wángzǐ · prince	HSK3.0 HSK6
+母	mǔ · mother	HSK3.0 HSK6
+仪式	yíshì · ceremony	HSK3.0 HSK6
+混乱	hùnluàn · confusion	HSK3.0 HSK6
+当成	dàngchéng · to consider as; to take to be	HSK3.0 HSK6
+惨	cǎn · miserable	HSK3.0 HSK6
+剑	jiàn · double-edged sword	HSK3.0 HSK6
+踩	cǎi · to step on	HSK3.0 HSK6
+海军	hǎijūn · navy	HSK3.0 HSK6
+判	pàn · to judge	HSK3.0 HSK6
+爆	bào · to explode or burst	HSK3.0 HSK6
+托	tuō · prop	HSK3.0 HSK6
+服	fú · clothes	HSK3.0 HSK6
+远离	yuǎnlí · to be far from	HSK3.0 HSK6
+被告	bèigào · defendant	HSK3.0 HSK6
+吸毒	xīdú · to take drugs	HSK3.0 HSK6
+扣	kòu · to button; to fasten	HSK3.0 HSK6
+晕	yūn · confused	HSK3.0 HSK6
+地板	dìbǎn · floor	HSK3.0 HSK6
+剧	jù · theatrical work	HSK3.0 HSK6
+通话	tōnghuà · to hold a conversation	HSK3.0 HSK6
+直升机	zhíshēngjī · helicopter	HSK3.0 HSK6
+全力	quánlì · with all one's strength	HSK3.0 HSK6
+物品	wùpǐn · articles; goods	HSK3.0 HSK6
+撑	chēng · to support	HSK3.0 HSK6
+进攻	jìngōng · to attack	HSK3.0 HSK6
+打断	dǎduàn · to interrupt	HSK3.0 HSK6
+捡	jiǎn · to pick up	HSK3.0 HSK6
+娃娃	wáwa · baby	HSK3.0 HSK6
+强壮	qiángzhuàng · strong	HSK3.0 HSK6
+查出	cháchū · to find out	HSK3.0 HSK6
+宗教	zōngjiào · religion	HSK3.0 HSK6
+牢	láo · firm	HSK3.0 HSK6
+陷入	xiànrù · to sink into	HSK3.0 HSK6
+蹲	dūn · to crouch	HSK3.0 HSK6
+滴	dī · a drop	HSK3.0 HSK6
+止	zhǐ · to stop	HSK3.0 HSK6
+地下室	dìxiàshì · basement	HSK3.0 HSK6
+异常	yìcháng · unusual; abnormal	HSK3.0 HSK6
+疾病	jíbìng · disease; sickness	HSK3.0 HSK6
+职责	zhízé · duty	HSK3.0 HSK6
+心脏病	xīnzàngbìng · heart disease	HSK3.0 HSK6
+公众	gōngzhòng · public	HSK3.0 HSK6
+章	zhāng · chapter	HSK3.0 HSK6
+法语	Fǎyǔ · French	HSK3.0 HSK6
+野	yě · erroneous variant of 野	HSK3.0 HSK6
+全新	quánxīn · all new	HSK3.0 HSK6
+负	fù · to bear	HSK3.0 HSK6
+设计师	shèjìshī · designer	HSK3.0 HSK6
+蒙	méng · drizzle	HSK3.0 HSK6
+时期	shíqī · period	HSK3.0 HSK6
+大赛	dàsài · grand contest	HSK3.0 HSK6
+总部	zǒngbù · general headquarters	HSK3.0 HSK6
+主角	zhǔjué · leading role; lead	HSK3.0 HSK6
+症状	zhèngzhuàng · symptom	HSK3.0 HSK6
+娱乐	yúlè · to entertain	HSK3.0 HSK6
+反抗	fǎnkàng · to resist	HSK3.0 HSK6
+心灵	xīnlíng · bright	HSK3.0 HSK6
+杆	gān · pole	HSK3.0 HSK6
+料	liào · material	HSK3.0 HSK6
+会见	huìjiàn · to meet with	HSK3.0 HSK6
+障碍	zhàngài · barrier	HSK3.0 HSK6
+危机	wēijī · crisis	HSK3.0 HSK6
+飞船	fēichuán · spaceship	HSK3.0 HSK6
+刮	guā · to scrape	HSK3.0 HSK6
+煮	zhǔ · to cook	HSK3.0 HSK6
+凶	xiōng · terrible	HSK3.0 HSK6
+出事	chūshì · to have an accident	HSK3.0 HSK6
+四处	sìchù · all over the place	HSK3.0 HSK6
+西班牙语	Xībānyáyǔ · Spanish language	HSK3.0 HSK6
+妙	miào · clever	HSK3.0 HSK6
+本地	běndì · local	HSK3.0 HSK6
+外科	wàikē · surgery	HSK3.0 HSK6
+至于	zhìyú · as for	HSK3.0 HSK6
+护	hù · to protect	HSK3.0 HSK6
+界	jiè · boundary; border	HSK3.0 HSK6
+暴露	bàolù · to expose	HSK3.0 HSK6
+播	bō · to sow	HSK3.0 HSK6
+钻	zuān · to drill	HSK3.0 HSK6
+仓库	cāngkù · depot	HSK3.0 HSK6
+顺	shùn · to obey	HSK3.0 HSK6
+刚好	gānghǎo · just	HSK3.0 HSK6
+演奏	yǎnzòu · to perform on a musical instrument	HSK3.0 HSK6
+亲眼	qīnyǎn · with one's own eyes	HSK3.0 HSK6
+富有	fùyǒu · rich; wealthy	HSK3.0 HSK6
+赚钱	zhuànqián · to earn money	HSK3.0 HSK6
+对抗	duìkàng · to withstand	HSK3.0 HSK6
+本身	běnshēn · itself	HSK3.0 HSK6
+赶上	gǎnshàng · to keep up with	HSK3.0 HSK6
+大道	dàdào · main street	HSK3.0 HSK6
+股	gǔ · thigh	HSK3.0 HSK6
+形	xíng · to appear	HSK3.0 HSK6
+档	dǎng · variant of 挡, gear	HSK3.0 HSK6
+宫	gōng · palace	HSK3.0 HSK6
+舌头	shétou · tongue	HSK3.0 HSK6
+消灭	xiāomiè · to put an end to	HSK3.0 HSK6
+预约	yùyuē · booking	HSK3.0 HSK6
+薪水	xīnshuǐ · salary	HSK3.0 HSK6
+理智	lǐzhì · reason	HSK3.0 HSK6
+吞	tūn · to swallow	HSK3.0 HSK6
+宠物	chǒngwù · pet	HSK3.0 HSK6
+踏	tà · to tread	HSK3.0 HSK6
+扎	zhā · to prick	HSK3.0 HSK6
+族	zú · race	HSK3.0 HSK6
+支援	zhīyuán · to provide assistance	HSK3.0 HSK6
+侧	cè · the side	HSK3.0 HSK6
+餐	cān · meal	HSK3.0 HSK6
+足	zú · foot; enough	HSK3.0 HSK6
+智慧	zhìhuì · wisdom	HSK3.0 HSK6
+大师	dàshī · great master	HSK3.0 HSK6
+气氛	qìfēn · atmosphere; mood	HSK3.0 HSK6
+策略	cèlu:è · strategy; tactics	HSK3.0 HSK6
+装备	zhuāngbèi · equipment	HSK3.0 HSK6
+金钱	jīnqián · money	HSK3.0 HSK6
+军事	jūnshì · military affairs	HSK3.0 HSK6
+捐	juān · to relinquish; to abandon	HSK3.0 HSK6
+协助	xiézhù · to provide assistance	HSK3.0 HSK6
+平衡	pínghéng · balance	HSK3.0 HSK6
+精	jīng · essence	HSK3.0 HSK6
+通道	tōngdào · channel	HSK3.0 HSK6
+阴谋	yīnmóu · to conspire; to plot	HSK3.0 HSK6
+为此	wèicǐ · for this reason	HSK3.0 HSK6
+协会	xiéhuì · an association	HSK3.0 HSK6
+爆发	bàofā · to break out	HSK3.0 HSK6
+场景	chǎngjǐng · scene; scenario	HSK3.0 HSK6
+飞行员	fēixíngyuán · pilot	HSK3.0 HSK6
+惊人	jīngrén · astonishing	HSK3.0 HSK6
+康复	kāngfù · to recuperate	HSK3.0 HSK6
+策划	cèhuà · to plot	HSK3.0 HSK6
+党	dǎng · party	HSK3.0 HSK6
+妇女	fùnǚ · woman	HSK3.0 HSK6
+宴会	yànhuì · banquet	HSK3.0 HSK6
+端	duān · end	HSK3.0 HSK6
+创意	chuàngyì · creative	HSK3.0 HSK6
+侵犯	qīnfàn · to infringe on	HSK3.0 HSK6
+珠宝	zhūbǎo · pearls	HSK3.0 HSK6
+崇拜	chóngbài · to worship	HSK3.0 HSK6
+时装	shízhuāng · fashion; fashionable clothes	HSK3.0 HSK6
+罪恶	zuìè · crime	HSK3.0 HSK6
+远远	yuǎnyuǎn · distant	HSK3.0 HSK6
+一时	yīshí · a period of time	HSK3.0 HSK6
+猛	měng · ferocious	HSK3.0 HSK6
+除	chú · to get rid of	HSK3.0 HSK6
+赌博	dǔbó · to gamble	HSK3.0 HSK6
+祖母	zǔmǔ · father's mother	HSK3.0 HSK6
+企图	qǐtú · to attempt	HSK3.0 HSK6
+晓得	xiǎode · to know	HSK3.0 HSK6
+领袖	lǐngxiù · leader	HSK3.0 HSK6
+球员	qiúyuán · player; team member	HSK3.0 HSK6
+收养	shōuyǎng · to take in and care for	HSK3.0 HSK6
+待会儿	dāihuìr · in a moment	HSK3.0 HSK6
+捉	zhuō · to clutch	HSK3.0 HSK6
+咨询	zīxún · to consult	HSK3.0 HSK6
+肺	fèi · lung	HSK3.0 HSK6
+混合	hùnhé · to mix	HSK3.0 HSK6
+透露	tòulù · to leak out	HSK3.0 HSK6
+斗争	dòuzhēng · a struggle	HSK3.0 HSK6
+酱	jiàng · thick paste of fermented soybean	HSK3.0 HSK6
+选举	xuǎnjǔ · to elect	HSK3.0 HSK6
+足以	zúyǐ · sufficient to...	HSK3.0 HSK6
+出名	chūmíng · well-known for sth	HSK3.0 HSK6
+隐私	yǐnsī · secrets	HSK3.0 HSK6
+街头	jiētóu · street	HSK3.0 HSK6
+内衣	nèiyī · undergarment	HSK3.0 HSK6
+旋转	xuánzhuǎn · to rotate	HSK3.0 HSK6
+品牌	pǐnpái · brand name	HSK3.0 HSK6
+扁	biǎn · flat	HSK3.0 HSK6
+狠	hěn · ruthless	HSK3.0 HSK6
+扭	niǔ · to turn	HSK3.0 HSK6
+残酷	cánkù · cruel	HSK3.0 HSK6
+疼痛	téngtòng · pain	HSK3.0 HSK6
+灭	miè · to extinguish or put out	HSK3.0 HSK6
+通讯	tōngxùn · communications	HSK3.0 HSK6
+给予	jǐyǔ · to give; to accord	HSK3.0 HSK6
+查看	chákàn · to look over	HSK3.0 HSK6
+出场	chūchǎng · to come onto the stage to perform	HSK3.0 HSK6
+名义	míngyì · name	HSK3.0 HSK6
+官司	guānsi · lawsuit	HSK3.0 HSK6
+救援	jiùyuán · to save	HSK3.0 HSK6
+开头	kāitóu · beginning	HSK3.0 HSK6
+一模一样	yīmúyīyàng · exactly the same	HSK3.0 HSK6
+险	xiǎn · danger	HSK3.0 HSK6
+遭到	zāodào · to suffer	HSK3.0 HSK6
+火箭	huǒjiàn · rocket	HSK3.0 HSK6
+从不	cóngbù · never	HSK3.0 HSK6
+关联	guānlián · to be related; to be connected	HSK3.0 HSK6
+倾向	qīngxiàng · trend	HSK3.0 HSK6
+战场	zhànchǎng · battlefield	HSK3.0 HSK6
+遭遇	zāoyù · to meet with	HSK3.0 HSK6
+游行	yóuxíng · to march; to parade	HSK3.0 HSK6
+边缘	biānyuán · edge; fringe	HSK3.0 HSK6
+笑容	xiàoróng · smile	HSK3.0 HSK6
+沿着	yánzhe · to go along	HSK3.0 HSK6
+悲惨	bēicǎn · miserable	HSK3.0 HSK6
+忽略	hūlu:è · to neglect; to overlook	HSK3.0 HSK6
+风暴	fēngbào · storm	HSK3.0 HSK6
+田	tián · field	HSK3.0 HSK6
+国会	Guóhuì · Parliament	HSK3.0 HSK6
+牵	qiān · to lead along	HSK3.0 HSK6
+防守	fángshǒu · to defend	HSK3.0 HSK6
+欺负	qīfu · to bully	HSK3.0 HSK6
+上台	shàngtái · to rise to power	HSK3.0 HSK6
+泥	ní · mud	HSK3.0 HSK6
+节奏	jiézòu · rhythm	HSK3.0 HSK6
+歌词	gēcí · song lyric	HSK3.0 HSK6
+路过	lùguò · to pass by or through	HSK3.0 HSK6
+昏	hūn · muddle-headed	HSK3.0 HSK6
+屏幕	píngmù · screen	HSK3.0 HSK6
+一番	yìfān · Some	HSK3.0 HSK6
+吊	diào · to suspend	HSK3.0 HSK6
+贡献	gòngxiàn · to contribute	HSK3.0 HSK6
+运作	yùnzuò · to operate	HSK3.0 HSK6
+井	jǐng · a well	HSK3.0 HSK6
+账户	zhànghù · bank account	HSK3.0 HSK6
+股票	gǔpiào · share certificate	HSK3.0 HSK6
+细胞	xìbāo · cell	HSK3.0 HSK6
+潜力	qiánlì · potential	HSK3.0 HSK6
+主持人	zhǔchírén · TV or radio presenter	HSK3.0 HSK6
+就算	jiùsuàn · even if	HSK3.0 HSK6
+热线	rèxiàn · hotline	HSK3.0 HSK6
+抗议	kàngyì · to protest	HSK3.0 HSK6
+偏	piān · to lean	HSK3.0 HSK6
+政策	zhèngcè · policy	HSK3.0 HSK6
+公	gōng · public	HSK3.0 HSK6
+空军	kōngjūn · air force	HSK3.0 HSK6
+定位	dìngwèi · to orientate	HSK3.0 HSK6
+作战	zuòzhàn · combat	HSK3.0 HSK6
+遭受	zāoshòu · to suffer; to sustain	HSK3.0 HSK6
+首席	shǒuxí · chief	HSK3.0 HSK6
+患者	huànzhě · patient; sufferer	HSK3.0 HSK6
+阴影	yīnyǐng · shadow	HSK3.0 HSK6
+高手	gāoshǒu · expert	HSK3.0 HSK6
+海洋	hǎiyáng · ocean; sea	HSK3.0 HSK6
+涉及	shèjí · to involve	HSK3.0 HSK6
+收藏	shōucáng · to collect; to put away for safekeeping	HSK3.0 HSK6
+参赛	cānsài · to compete	HSK3.0 HSK6
+炸药	zhàyào · explosive	HSK3.0 HSK6
+抵抗	dǐkàng · to resist	HSK3.0 HSK6
+战术	zhànshù · tactics	HSK3.0 HSK6
+重建	chóngjiàn · to rebuild	HSK3.0 HSK6
+操纵	cāozòng · to operate	HSK3.0 HSK6
+回应	huíyìng · to respond	HSK3.0 HSK6
+奇妙	qímiào · wonderful; marvelous	HSK3.0 HSK6
+要不然	yàobùrán · otherwise	HSK3.0 HSK6
+厨师	chúshī · chef; cook	HSK3.0 HSK6
+捐赠	juānzèng · to contribute	HSK3.0 HSK6
+佛	fó · Buddha	HSK3.0 HSK6
+尖	jiān · pointed; tapering	HSK3.0 HSK6
+约定	yuēdìng · to agree on sth	HSK3.0 HSK6
+合约	héyuē · treaty	HSK3.0 HSK6
+祖父	zǔfù · father's father	HSK3.0 HSK6
+市民	shìmín · city resident	HSK3.0 HSK6
+深深	shēnshēn · deep	HSK3.0 HSK6
+故障	gùzhàng · malfunction	HSK3.0 HSK6
+头疼	tóuténg · headache	HSK3.0 HSK6
+因素	yīnsù · element	HSK3.0 HSK6
+正当	zhèngdāng · timely	HSK3.0 HSK6
+掌声	zhǎngshēng · applause	HSK3.0 HSK6
+上演	shàngyǎn · to screen	HSK3.0 HSK6
+小费	xiǎofèi · tip	HSK3.0 HSK6
+极端	jíduān · extreme	HSK3.0 HSK6
+线路	xiànlù · line; circuit	HSK3.0 HSK6
+机械	jīxiè · machine	HSK3.0 HSK6
+歌唱	gēchàng · to sing	HSK3.0 HSK6
+融入	róngrù · to blend into	HSK3.0 HSK6
+分裂	fēnliè · to split up	HSK3.0 HSK6
+孤儿	gūér · orphan	HSK3.0 HSK6
+清洁	qīngjié · clean	HSK3.0 HSK6
+串	chuàn · to string together	HSK3.0 HSK6
+轨道	guǐdào · track	HSK3.0 HSK6
+箭	jiàn · arrow	HSK3.0 HSK6
+氧气	yǎngqì · oxygen	HSK3.0 HSK6
+此事	cǐshì · this matter	HSK3.0 HSK6
+急救	jíjiù · to give emergency treatment	HSK3.0 HSK6
+马车	mǎchē · cart	HSK3.0 HSK6
+无效	wúxiào · not valid	HSK3.0 HSK6
+打动	dǎdòng · to move	HSK3.0 HSK6
+电力	diànlì · electrical power	HSK3.0 HSK6
+自在	zìzai · comfortable; at ease	HSK3.0 HSK6
+民主	mínzhǔ · democracy	HSK3.0 HSK6
+撤销	chèxiāo · to repeal	HSK3.0 HSK6
+磨	mó · to rub	HSK3.0 HSK6
+新人	xīnrén · newcomer	HSK3.0 HSK6
+好转	hǎozhuǎn · to improve	HSK3.0 HSK6
+管道	guǎndào · tubing	HSK3.0 HSK6
+大使	dàshǐ · ambassador	HSK3.0 HSK6
+丧失	sàngshī · to lose	HSK3.0 HSK6
+铺	pū · to spread	HSK3.0 HSK6
+撤离	chèlí · to withdraw from	HSK3.0 HSK6
+误	wù · mistake	HSK3.0 HSK6
+提升	tíshēng · to promote	HSK3.0 HSK6
+药品	yàopǐn · medicaments	HSK3.0 HSK6
+挨	ái · to suffer; to endure	HSK3.0 HSK6
+薯条	shǔtiáo · french fries	HSK3.0 HSK6
+用品	yòngpǐn · articles for use	HSK3.0 HSK6
+车牌	chēpái · license plate	HSK3.0 HSK6
+想不到	xiǎngbudào · unexpected	HSK3.0 HSK6
+病情	bìngqíng · state of an illness	HSK3.0 HSK6
+船员	chuányuán · sailor	HSK3.0 HSK6
+干涉	gānshè · to interfere	HSK3.0 HSK6
+意愿	yìyuàn · aspiration	HSK3.0 HSK6
+接收	jiēshōu · reception	HSK3.0 HSK6
+难忘	nánwàng · unforgettable	HSK3.0 HSK6
+添	tiān · to add	HSK3.0 HSK6
+抵达	dǐdá · to arrive	HSK3.0 HSK6
+开通	kāitōng · to open; to set up	HSK3.0 HSK6
+成分	chéngfèn · composition; ingredient	HSK3.0 HSK6
+元素	yuánsù · element	HSK3.0 HSK6
+税	shuì · taxes	HSK3.0 HSK6
+村庄	cūnzhuāng · village	HSK3.0 HSK6
+细菌	xìjūn · bacterium	HSK3.0 HSK6
+仪器	yíqì · instrument; apparatus	HSK3.0 HSK6
+赖	lài · to depend on	HSK3.0 HSK6
+杰出	jiéchū · outstanding	HSK3.0 HSK6
+首相	shǒuxiàng · prime minister	HSK3.0 HSK6
+诞生	dànshēng · to be born	HSK3.0 HSK6
+适当	shìdàng · suitable; appropriate	HSK3.0 HSK6
+指定	zhǐdìng · to appoint	HSK3.0 HSK6
+鉴定	jiàndìng · to appraise	HSK3.0 HSK6
+仿佛	fǎngfú · to seem	HSK3.0 HSK6
+没收	mòshōu · to confiscate	HSK3.0 HSK6
+伤亡	shāngwáng · casualties	HSK3.0 HSK6
+跪	guì · to kneel	HSK3.0 HSK6
+长久	chángjiǔ · long time	HSK3.0 HSK6
+升级	shēngjí · to go up by one grade; to be promoted	HSK3.0 HSK6
+花费	huāfèi · expense	HSK3.0 HSK6
+循环	xúnhuán · to cycle	HSK3.0 HSK6
+探索	tànsuǒ · to explore; to probe	HSK3.0 HSK6
+病房	bìngfáng · ward	HSK3.0 HSK6
+清洗	qīngxǐ · to wash	HSK3.0 HSK6
+传言	chuányán · rumor	HSK3.0 HSK6
+争夺	zhēngduó · to fight over	HSK3.0 HSK6
+强盗	qiángdào · to rob	HSK3.0 HSK6
+天下	tiānxià · land under heaven	HSK3.0 HSK6
+当天	dāngtiān · on that day	HSK3.0 HSK6
+血管	xuèguǎn · vein	HSK3.0 HSK6
+知名	zhīmíng · well-known; famous	HSK3.0 HSK6
+依赖	yīlài · to depend on	HSK3.0 HSK6
+核心	héxīn · core; nucleus	HSK3.0 HSK6
+家园	jiāyuán · home	HSK3.0 HSK6
+浮	fú · to float	HSK3.0 HSK6
+本质	běnzhì · essence	HSK3.0 HSK6
+焦点	jiāodiǎn · focal point; focus	HSK3.0 HSK6
+战略	zhànlu:è · strategy	HSK3.0 HSK6
+走私	zǒusī · to smuggle	HSK3.0 HSK6
+嘉宾	jiābīn · esteemed guest	HSK3.0 HSK6
+花生	huāshēng · peanut	HSK3.0 HSK6
+出路	chūlù · a way out	HSK3.0 HSK6
+掏	tāo · to fish out	HSK3.0 HSK6
+援助	yuánzhù · to help	HSK3.0 HSK6
+持有	chíyǒu · to hold	HSK3.0 HSK6
+顾	gù · to look after	HSK3.0 HSK6
+监督	jiāndū · to control	HSK3.0 HSK6
+超出	chāochū · to exceed	HSK3.0 HSK6
+往后	wǎnghòu · from now on	HSK3.0 HSK6
+港口	gǎngkǒu · port	HSK3.0 HSK6
+行程	xíngchéng · journey	HSK3.0 HSK6
+扑	pū · to throw oneself at	HSK3.0 HSK6
+城镇	chéngzhèn · town	HSK3.0 HSK6
+面对面	miànduìmiàn · face to face	HSK3.0 HSK6
+前来	qiánlái · to come	HSK3.0 HSK6
+途径	tújìng · way; means	HSK3.0 HSK6
+同一	tóngyī · identical; the same	HSK3.0 HSK6
+渡	dù · to cross	HSK3.0 HSK6
+打发	dǎfa · to dispatch sb to do sth	HSK3.0 HSK6
+名誉	míngyù · fame	HSK3.0 HSK6
+前方	qiánfāng · ahead	HSK3.0 HSK6
+跨	kuà · to step across	HSK3.0 HSK6
+奉献	fèngxiàn · to offer respectfully	HSK3.0 HSK6
+祖国	zǔguó · motherland	HSK3.0 HSK6
+感人	gǎnrén · touching; moving	HSK3.0 HSK6
+海报	hǎibào · poster	HSK3.0 HSK6
+犯规	fànguī · to break the rules	HSK3.0 HSK6
+常规	chángguī · code of conduct	HSK3.0 HSK6
+高层	gāocéng · high-rise	HSK3.0 HSK6
+一同	yītóng · together	HSK3.0 HSK6
+窗口	chuāngkǒu · window	HSK3.0 HSK6
+债	zhài · debt	HSK3.0 HSK6
+和谐	héxié · harmonious	HSK3.0 HSK6
+用心	yòngxīn · motive	HSK3.0 HSK6
+纠正	jiūzhèng · to correct	HSK3.0 HSK6
+炮	pào · cannon; firecracker	HSK3.0 HSK6
+海底	hǎidǐ · seabed	HSK3.0 HSK6
+去掉	qùdiào · to get rid of	HSK3.0 HSK6
+场地	chǎngdì · space	HSK3.0 HSK6
+恰好	qiàhǎo · as it turns out	HSK3.0 HSK6
+番	fān · foreign	HSK3.0 HSK6
+缺陷	quēxiàn · defect; flaw	HSK3.0 HSK6
+恰当	qiàdàng · appropriate	HSK3.0 HSK6
+拨打	bōdǎ · to call	HSK3.0 HSK6
+看好	kànhǎo · to be optimistic about	HSK3.0 HSK6
+很难说	hěnnánshuō · Hard to say	HSK3.0 HSK6
+占据	zhànjù · to occupy	HSK3.0 HSK6
+岗位	gǎngwèi · a post; a job	HSK3.0 HSK6
+横	héng · horizontal	HSK3.0 HSK6
+懒	lǎn · lazy	HSK3.0 HSK6
+过时	guòshí · old-fashioned	HSK3.0 HSK6
+织	zhī · to weave	HSK3.0 HSK6
+拐	guǎi · to turn	HSK3.0 HSK6
+肿	zhǒng · to swell	HSK3.0 HSK6
+膜	mó · membrane	HSK3.0 HSK6
+活跃	huóyuè · active	HSK3.0 HSK6
+笑声	xiàoshēng · laughter	HSK3.0 HSK6
+海湾	hǎiwān · bay	HSK3.0 HSK6
+会长	huìzhǎng · president of a club, committee etc	HSK3.0 HSK6
+钟头	zhōngtóu · hour	HSK3.0 HSK6
+平凡	píngfán · commonplace	HSK3.0 HSK6
+认同	rèntóng · to approve of	HSK3.0 HSK6
+免得	miǎnde · so as not to; so as to avoid	HSK3.0 HSK6
+协调	xiétiáo · to coordinate	HSK3.0 HSK6
+皇帝	huángdì · emperor	HSK3.0 HSK6
+外出	wàichū · to go out	HSK3.0 HSK6
+缘故	yuángù · reason	HSK3.0 HSK6
+铅笔	qiānbǐ · pencil	HSK3.0 HSK6
+陆军	lùjūn · army	HSK3.0 HSK6
+脚印	jiǎoyìn · footprint	HSK3.0 HSK6
+肝	gān · liver	HSK3.0 HSK6
+哲学	zhéxué · philosophy	HSK3.0 HSK6
+变形	biànxíng · to become deformed; to change shape	HSK3.0 HSK6
+原告	yuángào · complainant	HSK3.0 HSK6
+嫌	xián · to dislike	HSK3.0 HSK6
+机关	jīguān · mechanism; gear	HSK3.0 HSK6
+跌	diē · to fall	HSK3.0 HSK6
+恰恰	qiàqià · exactly	HSK3.0 HSK6
+罢工	bàgōng · a strike	HSK3.0 HSK6
+办公	bàngōng · to handle official business	HSK3.0 HSK6
+捕	bǔ · to catch	HSK3.0 HSK6
+山谷	shāngǔ · valley	HSK3.0 HSK6
+不至于	bùzhìyú · unlikely to go so far as to; not as bad as	HSK3.0 HSK6
+发起	fāqǐ · to originate	HSK3.0 HSK6
+担忧	dānyōu · to worry	HSK3.0 HSK6
+基督教	Jīdūjiào · Christianity	HSK3.0 HSK6
+传输	chuánshū · to transmit	HSK3.0 HSK6
+虽	suī · although	HSK3.0 HSK6
+悬	xuán · to hang or suspend	HSK3.0 HSK6
+清洁工	qīngjiégōng · cleaner	HSK3.0 HSK6
+王后	wánghòu · queen	HSK3.0 HSK6
+出入	chūrù · to go out and come in	HSK3.0 HSK6
+支撑	zhīchēng · to prop up	HSK3.0 HSK6
+姑姑	gūgu · paternal aunt	HSK3.0 HSK6
+同胞	tóngbāo · born of the same parents	HSK3.0 HSK6
+传出	chuánchū · to transmit outwards	HSK3.0 HSK6
+出动	chūdòng · to start out on a trip	HSK3.0 HSK6
+裂	liè · to split	HSK3.0 HSK6
+热水	rèshuǐ · hot water	HSK3.0 HSK6
+杂	zá · mixed	HSK3.0 HSK6
+旅店	lǚdiàn · inn	HSK3.0 HSK6
+来往	láiwǎng · to come and go	HSK3.0 HSK6
+搭配	dāpèi · to pair up	HSK3.0 HSK6
+暴风雨	bàofēngyǔ · rainstorm	HSK3.0 HSK6
+审查	shěnchá · to examine	HSK3.0 HSK6
+艺人	yìrén · performing artist	HSK3.0 HSK6
+捐款	juānkuǎn · to donate money	HSK3.0 HSK6
+特意	tèyì · specially	HSK3.0 HSK6
+影响力	yǐngxiǎnglì · influence	HSK3.0 HSK6
+压迫	yāpò · to oppress	HSK3.0 HSK6
+墓	mù · grave	HSK3.0 HSK6
+强势	qiángshì · strong	HSK3.0 HSK6
+宇航员	yǔhángyuán · astronaut	HSK3.0 HSK6
+租金	zūjīn · rent	HSK3.0 HSK6
+金融	jīnróng · banking	HSK3.0 HSK6
+专用	zhuānyòng · special	HSK3.0 HSK6
+救助	jiùzhù · to help sb in trouble	HSK3.0 HSK6
+平台	píngtái · platform	HSK3.0 HSK6
+派出	pàichū · to send	HSK3.0 HSK6
+棉	mián · generic term for cotton or kapok	HSK3.0 HSK6
+水泥	shuǐní · cement	HSK3.0 HSK6
+流感	liúgǎn · flu; influenza	HSK3.0 HSK6
+开关	kāiguān · power switch	HSK3.0 HSK6
+都市	dūshì · city; metropolis	HSK3.0 HSK6
+好不容易	hǎobùróngyì · with great difficulty	HSK3.0 HSK6
+洋	yáng · ocean	HSK3.0 HSK6
+再生	zàishēng · to be reborn	HSK3.0 HSK6
+园	yuán · land used for growing plants	HSK3.0 HSK6
+总监	zǒngjiān · head	HSK3.0 HSK6
+黑夜	hēiyè · night	HSK3.0 HSK6
+壶	hú · pot	HSK3.0 HSK6
+低头	dītóu · to bow the head	HSK3.0 HSK6
+景	jǐng · scenery	HSK3.0 HSK6
+看作	kànzuò · to look upon as	HSK3.0 HSK6
+用处	yòngchu · usefulness	HSK3.0 HSK6
+烟花	yānhuā · fireworks	HSK3.0 HSK6
+父子	fùzǐ · father and son	HSK3.0 HSK6
+联赛	liánsài · league	HSK3.0 HSK6
+不怎么	bùzěnme · not very	HSK3.0 HSK6
+提交	tíjiāo · to submit	HSK3.0 HSK6
+富人	fùrén · rich person	HSK3.0 HSK6
+融合	rónghé · a mixture	HSK3.0 HSK6
+同行	tóngháng · person of the same profession	HSK3.0 HSK6
+不通	bùtōng · to be obstructed	HSK3.0 HSK6
+战友	zhànyǒu · comrade-in-arms	HSK3.0 HSK6
+推出	tuīchū · to push out	HSK3.0 HSK6
+供给	gōngjǐ · to furnish	HSK3.0 HSK6
+信用	xìnyòng · trustworthiness	HSK3.0 HSK6
+海外	hǎiwài · overseas	HSK3.0 HSK6
+外头	wàitou · outside	HSK3.0 HSK6
+户外	hùwài · outdoor	HSK3.0 HSK6
+谦虚	qiānxū · modest	HSK3.0 HSK6
+起点	qǐdiǎn · starting point	HSK3.0 HSK6
+微波炉	wēibōlú · microwave oven	HSK3.0 HSK6
+师父	shīfu · used for 师傅	HSK3.0 HSK6
+次数	cìshù · number of times	HSK3.0 HSK6
+沿	yán · along	HSK3.0 HSK6
+复苏	fùsū · to recover	HSK3.0 HSK6
+应急	yìngjí · to respond to an emergency	HSK3.0 HSK6
+净	jìng · clean	HSK3.0 HSK6
+早晚	zǎowǎn · morning and evening	HSK3.0 HSK6
+花瓶	huāpíng · vase	HSK3.0 HSK6
+有事	yǒushì · to be occupied with sth	HSK3.0 HSK6
+外部	wàibù · the outside; external	HSK3.0 HSK6
+听取	tīngqǔ · to hear; to listen to	HSK3.0 HSK6
+影星	yǐngxīng · film star	HSK3.0 HSK6
+书房	shūfáng · study	HSK3.0 HSK6
+此次	cǐcì · this time	HSK3.0 HSK6
+冲击	chōngjī · to attack	HSK3.0 HSK6
+矿	kuàng · mineral deposit; ore deposit	HSK3.0 HSK6
+墨水	mòshuǐ · ink	HSK3.0 HSK6
+海浪	hǎilàng · sea wave	HSK3.0 HSK6
+人权	rénquán · human rights	HSK3.0 HSK6
+打造	dǎzào · to create	HSK3.0 HSK6
+打牌	dǎpái · to play mahjong or cards	HSK3.0 HSK6
+壮观	zhuàngguān · spectacular	HSK3.0 HSK6
+假日	jiàrì · holiday	HSK3.0 HSK6
+野生	yěshēng · wild	HSK3.0 HSK6
+灵活	línghuó · flexible	HSK3.0 HSK6
+电车	diànchē · trolleybus	HSK3.0 HSK6
+住宅	zhùzhái · residence; dwelling	HSK3.0 HSK6
+账	zhàng · account	HSK3.0 HSK6
+美容	měiróng · to improve one's appearance	HSK3.0 HSK6
+一贯	yīguàn · consistent	HSK3.0 HSK6
+茄子	qiézi · eggplant	HSK3.0 HSK6
+重组	chóngzǔ · to reorganize; to recombine	HSK3.0 HSK6
+笑脸	xiàoliǎn · smiling face	HSK3.0 HSK6
+储存	chǔcún · stockpile	HSK3.0 HSK6
+过后	guòhòu · after the event	HSK3.0 HSK6
+古典	gǔdiǎn · classical	HSK3.0 HSK6
+坡	pō · slope	HSK3.0 HSK6
+拖鞋	tuōxié · slippers	HSK3.0 HSK6
+番茄	fānqié · tomato	HSK3.0 HSK6
+事后	shìhòu · after the event	HSK3.0 HSK6
+种种	zhǒngzhǒng · all kinds of	HSK3.0 HSK6
+外衣	wàiyī · outer clothing	HSK3.0 HSK6
+奶牛	nǎiniú · milk cow	HSK3.0 HSK6
+渠道	qúdào · irrigation ditch	HSK3.0 HSK6
+天然	tiānrán · natural	HSK3.0 HSK6
+高档	gāodàng · superior quality	HSK3.0 HSK6
+站台	zhàntái · platform	HSK3.0 HSK6
+此处	cǐchù · this place	HSK3.0 HSK6
+实践	shíjiàn · practice	HSK3.0 HSK6
+寺	sì · Buddhist temple	HSK3.0 HSK6
+指数	zhǐshù · index	HSK3.0 HSK6
+枝	zhī · branch	HSK3.0 HSK6
+特地	tèdì · specially	HSK3.0 HSK6
+学员	xuéyuán · student	HSK3.0 HSK6
+洪水	hóngshuǐ · deluge; flood	HSK3.0 HSK6
+衡量	héngliáng · to weigh	HSK3.0 HSK6
+入学	rùxué · to enter a school or college	HSK3.0 HSK6
+区分	qūfēn · to differentiate	HSK3.0 HSK6
+意想不到	yìxiǎngbùdào · unexpected	HSK3.0 HSK6
+一次性	yīcìxìng · one-off	HSK3.0 HSK6
+盲人	mángrén · blind person	HSK3.0 HSK6
+通报	tōngbào · to inform	HSK3.0 HSK6
+驻	zhù · to halt	HSK3.0 HSK6
+盼望	pànwàng · to hope for; to look forward to	HSK3.0 HSK6
+歌星	gēxīng · singing star	HSK3.0 HSK6
+残疾	cánjí · disabled	HSK3.0 HSK6
+一代	yīdài · generation	HSK3.0 HSK6
+消耗	xiāohào · to use up	HSK3.0 HSK6
+股东	gǔdōng · shareholder	HSK3.0 HSK6
+赛场	sàichǎng · racetrack	HSK3.0 HSK6
+修车	xiūchē · to repair a bike	HSK3.0 HSK6
+贫困	pínkùn · impoverished	HSK3.0 HSK6
+醋	cù · vinegar	HSK3.0 HSK6
+政权	zhèngquán · regime	HSK3.0 HSK6
+岁数	suìshu · age	HSK3.0 HSK6
+多半	duōbàn · most	HSK3.0 HSK6
+粥	zhōu · congee	HSK3.0 HSK6
+诸位	zhūwèi · everyone	HSK3.0 HSK6
+外来	wàilái · external	HSK3.0 HSK6
+奔跑	bēnpǎo · to run	HSK3.0 HSK6
+照样	zhàoyàng · as before	HSK3.0 HSK6
+夺取	duóqǔ · to seize	HSK3.0 HSK6
+忠心	zhōngxīn · good faith	HSK3.0 HSK6
+国旗	guóqí · flag	HSK3.0 HSK6
+上当	shàngdàng · taken in	HSK3.0 HSK6
+层面	céngmiàn · aspect	HSK3.0 HSK6
+光辉	guānghuī · radiance	HSK3.0 HSK6
+医药	yīyào · medical care and medicines	HSK3.0 HSK6
+打官司	dǎguānsi · to file a lawsuit	HSK3.0 HSK6
+背心	bèixīn · sleeveless garment	HSK3.0 HSK6
+改装	gǎizhuāng · to change one's costume	HSK3.0 HSK6
+果酱	guǒjiàng · jam	HSK3.0 HSK6
+不便	bùbiàn · inconvenient	HSK3.0 HSK6
+日语	Rìyǔ · Japanese language	HSK3.0 HSK6
+处处	chùchù · everywhere	HSK3.0 HSK6
+决策	juécè · strategic decision	HSK3.0 HSK6
+网页	wǎngyè · web page	HSK3.0 HSK6
+创建	chuàngjiàn · to found	HSK3.0 HSK6
+弯曲	wānqū · to bend	HSK3.0 HSK6
+巧妙	qiǎomiào · ingenious; clever	HSK3.0 HSK6
+纠纷	jiūfēn · dispute	HSK3.0 HSK6
+观光	guānguāng · to tour	HSK3.0 HSK6
+心愿	xīnyuàn · cherished desire	HSK3.0 HSK6
+大力	dàlì · energetically	HSK3.0 HSK6
+研发	yánfā · research and development	HSK3.0 HSK6
+明日	míngrì · tomorrow	HSK3.0 HSK6
+繁殖	fánzhí · to breed	HSK3.0 HSK6
+自言自语	zìyánzìyǔ · to talk to oneself	HSK3.0 HSK6
+看得见	kàndéjiàn · can see	HSK3.0 HSK6
+绝大多数	juédàduōshù · the vast majority	HSK3.0 HSK6
+维生素	wéishēngsù · vitamin	HSK3.0 HSK6
+录音机	lùyīnjī · recording machine	HSK3.0 HSK6
+本土	běntǔ · one's native country	HSK3.0 HSK6
+对外	duìwài · external	HSK3.0 HSK6
+协商	xiéshāng · to consult with	HSK3.0 HSK6
+眼看	yǎnkàn · soon	HSK3.0 HSK6
+残疾人	cánjírén · disabled person	HSK3.0 HSK6
+互动	hùdòng · to interact	HSK3.0 HSK6
+挨打	áidǎ · to take a beating	HSK3.0 HSK6
+到期	dàoqī · to fall due	HSK3.0 HSK6
+上市	shàngshì · to hit the market	HSK3.0 HSK6
+绘画	huìhuà · drawing	HSK3.0 HSK6
+波动	bōdòng · to undulate	HSK3.0 HSK6
+游戏机	yóuxìjī · video game machine	HSK3.0 HSK6
+金额	jīné · sum of money	HSK3.0 HSK6
+发言人	fāyánrén · spokesperson	HSK3.0 HSK6
+奏	zòu · to play music	HSK3.0 HSK6
+就是说	jiùshìshuō · in other words; that is	HSK3.0 HSK6
+往来	wǎnglái · dealings	HSK3.0 HSK6
+追究	zhuījiū · to investigate	HSK3.0 HSK6
+选拔	xuǎnbá · to select the best	HSK3.0 HSK6
+迎来	yínglái · to welcome	HSK3.0 HSK6
+关爱	guānài · to show concern and care for	HSK3.0 HSK6
+电动	diàndòng · electric-powered	HSK3.0 HSK6
+音量	yīnliàng · loudness	HSK3.0 HSK6
+影迷	yǐngmí · film enthusiast	HSK3.0 HSK6
+指头	zhǐtou · finger	HSK3.0 HSK6
+应对	yìngduì · to answer; to reply	HSK3.0 HSK6
+防范	fángfàn · to be on guard	HSK3.0 HSK6
+吉利	jílì · auspicious	HSK3.0 HSK6
+券	quàn · bond	HSK3.0 HSK6
+高峰	gāofēng · peak	HSK3.0 HSK6
+识字	shízì · to learn to read	HSK3.0 HSK6
+联手	liánshǒu · lit. to join hands	HSK3.0 HSK6
+母女	mǔnǚ · mother and daughter	HSK3.0 HSK6
+出面	chūmiàn · to appear personally	HSK3.0 HSK6
+发放	fāfàng · to provide	HSK3.0 HSK6
+图书	túshū · books	HSK3.0 HSK6
+面向	miànxiàng · to face	HSK3.0 HSK6
+儿科	érkē · pediatrics	HSK3.0 HSK6
+船只	chuánzhī · ship	HSK3.0 HSK6
+揭	jiē · to take the lid off	HSK3.0 HSK6
+短片	duǎnpiàn · short film	HSK3.0 HSK6
+精美	jīngměi · delicate	HSK3.0 HSK6
+布满	bùmǎn · to be covered with	HSK3.0 HSK6
+探讨	tàntǎo · to investigate	HSK3.0 HSK6
+识	shí · to know	HSK3.0 HSK6
+陪同	péitóng · to accompany	HSK3.0 HSK6
+挨着	āizhe · near	HSK3.0 HSK6
+通行	tōngxíng · to go through	HSK3.0 HSK6
+电器	diànqì · appliance	HSK3.0 HSK6
+远方	yuǎnfāng · far away	HSK3.0 HSK6
+过渡	guòdù · to cross over	HSK3.0 HSK6
+看管	kānguǎn · to look after	HSK3.0 HSK6
+评	píng · to discuss	HSK3.0 HSK6
+徒弟	túdì · apprentice	HSK3.0 HSK6
+聘请	pìnqǐng · to engage	HSK3.0 HSK6
+中等	zhōngděng · medium	HSK3.0 HSK6
+动画	dònghuà · animation	HSK3.0 HSK6
+礼堂	lǐtáng · assembly hall	HSK3.0 HSK6
+照耀	zhàoyào · to shine	HSK3.0 HSK6
+太阳能	tàiyángnéng · solar energy	HSK3.0 HSK6
+大米	dàmǐ · rice	HSK3.0 HSK6
+发怒	fānù · to get angry	HSK3.0 HSK6
+柱子	zhùzi · pillar	HSK3.0 HSK6
+变换	biànhuàn · to transform	HSK3.0 HSK6
+小麦	xiǎomài · wheat	HSK3.0 HSK6
+凡是	fánshì · each and every	HSK3.0 HSK6
+背着	bēizhe · carrying on one's back	HSK3.0 HSK6
+亲属	qīnshǔ · kin	HSK3.0 HSK6
+伤员	shāngyuán · wounded person	HSK3.0 HSK6
+差异	chāyì · difference; discrepancy	HSK3.0 HSK6
+勺	sháo · spoon	HSK3.0 HSK6
+不禁	bùjīn · can't help	HSK3.0 HSK6
+捐助	juānzhù · to donate	HSK3.0 HSK6
+出行	chūxíng · to go out somewhere	HSK3.0 HSK6
+招聘	zhāopìn · to invite applications for a job	HSK3.0 HSK6
+祝愿	zhùyuàn · to wish	HSK3.0 HSK6
+排行榜	páihángbǎng · the charts	HSK3.0 HSK6
+稿子	gǎozi · draft of a document	HSK3.0 HSK6
+顽强	wánqiáng · tenacious	HSK3.0 HSK6
+开创	kāichuàng · to initiate	HSK3.0 HSK6
+素质	sùzhì · inner quality	HSK3.0 HSK6
+收取	shōuqǔ · to receive	HSK3.0 HSK6
+名额	míngé · quota	HSK3.0 HSK6
+长远	chángyuǎn · long-term	HSK3.0 HSK6
+父女	fùnǚ · father and daughter	HSK3.0 HSK6
+监测	jiāncè · to monitor	HSK3.0 HSK6
+首脑	shǒunǎo · head	HSK3.0 HSK6
+采纳	cǎinà · to accept	HSK3.0 HSK6
+公鸡	gōngjī · cock	HSK3.0 HSK6
+酒水	jiǔshuǐ · beverage; drink	HSK3.0 HSK6
+桥梁	qiáoliáng · bridge	HSK3.0 HSK6
+特大	tèdà · exceptionally big	HSK3.0 HSK6
+敢于	gǎnyú · to have the courage to do sth	HSK3.0 HSK6
+日夜	rìyè · day and night	HSK3.0 HSK6
+低温	dīwēn · low temperature	HSK3.0 HSK6
+便是	biànshì · precisely	HSK3.0 HSK6
+安检	ānjiǎn · security check	HSK3.0 HSK6
+傍晚	bàngwǎn · in the evening	HSK3.0 HSK6
+冷水	lěngshuǐ · cold water	HSK3.0 HSK6
+治病	zhìbìng · to treat an illness	HSK3.0 HSK6
+只顾	zhǐgù · solely preoccupied	HSK3.0 HSK6
+说明书	shuōmíngshū · manual	HSK3.0 HSK6
+波浪	bōlàng · wave	HSK3.0 HSK6
+保健	bǎojiàn · health protection	HSK3.0 HSK6
+传媒	chuánméi · media	HSK3.0 HSK6
+办事处	bànshìchù · office	HSK3.0 HSK6
+仰	yǎng · to face upward	HSK3.0 HSK6
+自来水	zìláishuǐ · running water	HSK3.0 HSK6
+阔	kuò · rich	HSK3.0 HSK6
+乌云	wūyún · black cloud	HSK3.0 HSK6
+主流	zhǔliú · main stream	HSK3.0 HSK6
+蓝天	lántiān · blue sky	HSK3.0 HSK6
+强化	qiánghuà · to strengthen	HSK3.0 HSK6
+创办	chuàngbàn · to establish	HSK3.0 HSK6
+国歌	guógē · national anthem	HSK3.0 HSK6
+截止	jiézhǐ · to close	HSK3.0 HSK6
+广阔	guǎngkuò · wide	HSK3.0 HSK6
+发电	fādiàn · to generate electricity	HSK3.0 HSK6
+要好	yàohǎo · to be on good terms	HSK3.0 HSK6
+发病	fābìng · to occur	HSK3.0 HSK6
+母子	mǔzǐ · mother and child	HSK3.0 HSK6
+反响	fǎnxiǎng · repercussions	HSK3.0 HSK6
+恩人	ēnrén · a benefactor	HSK3.0 HSK6
+半决赛	bànjuésài · semifinals	HSK3.0 HSK6
+总经理	zǒngjīnglǐ · general manager	HSK3.0 HSK6
+球星	qiúxīng · sports star	HSK3.0 HSK6
+叹气	tànqì · to sigh	HSK3.0 HSK6
+暴雨	bàoyǔ · torrential rain	HSK3.0 HSK6
+补助	bǔzhù · to subsidize	HSK3.0 HSK6
+快车	kuàichē · express	HSK3.0 HSK6
+中期	zhōngqī · middle	HSK3.0 HSK6
+酱油	jiàngyóu · soy sauce	HSK3.0 HSK6
+先锋	xiānfēng · vanguard	HSK3.0 HSK6
+食欲	shíyù · appetite	HSK3.0 HSK6
+台灯	táidēng · desk lamp	HSK3.0 HSK6
+一道	yīdào · together	HSK3.0 HSK6
+山坡	shānpō · hillside	HSK3.0 HSK6
+必将	bìjiāng · inevitably	HSK3.0 HSK6
+要素	yàosù · essential factor	HSK3.0 HSK6
+变更	biàngēng · to change	HSK3.0 HSK6
+高等	gāoděng · high-level	HSK3.0 HSK6
+白领	báilǐng · white-collar	HSK3.0 HSK6
+母鸡	mǔjī · hen	HSK3.0 HSK6
+响声	xiǎngshēng · noise	HSK3.0 HSK6
+只管	zhǐguǎn · solely engrossed in one thing	HSK3.0 HSK6
+不成	bùchéng · won't do	HSK3.0 HSK6
+地名	dìmíng · place name	HSK3.0 HSK6
+显出	xiǎnchū · to express	HSK3.0 HSK6
+打印机	dǎyìnjī · printer	HSK3.0 HSK6
+发炎	fāyán · to become inflamed	HSK3.0 HSK6
+取款	qǔkuǎn · to withdraw money from a bank	HSK3.0 HSK6
+特快	tèkuài · express	HSK3.0 HSK6
+峰会	fēnghuì · summit meeting	HSK3.0 HSK6
+理财	lǐcái · to manage wealth; to manage finances	HSK3.0 HSK6
+巩固	gǒnggù · to consolidate	HSK3.0 HSK6
+雨衣	yǔyī · raincoat	HSK3.0 HSK6
+开设	kāishè · to offer	HSK3.0 HSK6
+送礼	sònglǐ · to give a present	HSK3.0 HSK6
+顽皮	wánpí · naughty	HSK3.0 HSK6
+定时	dìngshí · to fix a time	HSK3.0 HSK6
+领取	lǐngqǔ · to receive; to draw	HSK3.0 HSK6
+凉鞋	liángxié · sandal	HSK3.0 HSK6
+科研	kēyán · research	HSK3.0 HSK6
+养老	yǎnglǎo · to provide for the elderly	HSK3.0 HSK6
+跳水	tiàoshuǐ · to dive	HSK3.0 HSK6
+两侧	liǎngcè · two sides	HSK3.0 HSK6
+音像	yīnxiàng · audio and video	HSK3.0 HSK6
+田径	tiánjìng · track and field	HSK3.0 HSK6
+优质	yōuzhì · excellent quality	HSK3.0 HSK6
+政党	zhèngdǎng · political party	HSK3.0 HSK6
+作废	zuòfèi · to become invalid	HSK3.0 HSK6
+化解	huàjiě · to dissolve	HSK3.0 HSK6
+百分点	bǎifēndiǎn · percentage point	HSK3.0 HSK6
+讲课	jiǎngkè · teach	HSK3.0 HSK6
+此前	cǐqián · before this	HSK3.0 HSK6
+议题	yìtí · topic of discussion	HSK3.0 HSK6
+评选	píngxuǎn · to select on the basis of a vote or consensus	HSK3.0 HSK6
+生活费	shēnghuófèi · cost of living	HSK3.0 HSK6
+楼房	lóufáng · a building of two or more stories	HSK3.0 HSK6
+佛教	Fójiào · Buddhism	HSK3.0 HSK6
+秘书长	mìshūzhǎng · secretary-general	HSK3.0 HSK6
+切实	qièshí · feasible	HSK3.0 HSK6
+革新	géxīn · to innovate	HSK3.0 HSK6
+解说	jiěshuō · to explain; to give a running commentary	HSK3.0 HSK6
+乐曲	yuèqǔ · musical composition	HSK3.0 HSK6
+整顿	zhěngdùn · to tidy up	HSK3.0 HSK6
+省钱	shěngqián · to save money	HSK3.0 HSK6
+军舰	jūnjiàn · warship	HSK3.0 HSK6
+无边	wúbiān · without boundary	HSK3.0 HSK6
+热点	rèdiǎn · hot spot	HSK3.0 HSK6
+一齐	yīqí · at the same time	HSK3.0 HSK6
+这就是说	zhèjiùshìshuō · in other words	HSK3.0 HSK6
+配置	pèizhì · to deploy	HSK3.0 HSK6
+民意	mínyì · public opinion	HSK3.0 HSK6
+时节	shíjié · season; time	HSK3.0 HSK6
+分工	fēngōng · to divide up the work	HSK3.0 HSK6
+高考	gāokǎo · college entrance exam	HSK3.0 HSK6
+畅通	chàngtōng · unimpeded	HSK3.0 HSK6
+山峰	shānfēng · peak	HSK3.0 HSK6
+盛行	shèngxíng · to be in vogue; to be popular	HSK3.0 HSK6
+长假	chángjià · long vacation	HSK3.0 HSK6
+增进	zēngjìn · to promote	HSK3.0 HSK6
+觉悟	juéwù · to come to understand	HSK3.0 HSK6
+盗版	dàobǎn · pirated	HSK3.0 HSK6
+晕车	yùnchē · to be carsick	HSK3.0 HSK6
+商城	shāngchéng · shopping center	HSK3.0 HSK6
+大批	dàpī · large quantities of	HSK3.0 HSK6
+栏目	lánmù · regular column or segment	HSK3.0 HSK6
+老乡	lǎoxiāng · fellow townsman; fellow villager	HSK3.0 HSK6
+补习	bǔxí · to take extra lessons in a cram school or with a private tutor	HSK3.0 HSK6
+城区	chéngqū · city district	HSK3.0 HSK6
+自学	zìxué · self-study	HSK3.0 HSK6
+测定	cèdìng · to determine	HSK3.0 HSK6
+依次	yīcì · in order	HSK3.0 HSK6
+踏实	tāshi · firmly-based	HSK3.0 HSK6
+简介	jiǎnjiè · summary	HSK3.0 HSK6
+时时	shíshí · often	HSK3.0 HSK6
+编制	biānzhì · to establish	HSK3.0 HSK6
+长跑	chángpǎo · long-distance running	HSK3.0 HSK6
+送行	sòngxíng · to see someone off	HSK3.0 HSK6
+时而	shíér · occasionally	HSK3.0 HSK6
+外观	wàiguān · outward appearance	HSK3.0 HSK6
+网吧	wǎngbā · internet café	HSK3.0 HSK6
+球拍	qiúpāi · racket	HSK3.0 HSK6
+调研	diàoyán · to investigate and research	HSK3.0 HSK6
+成品	chéngpǐn · finished goods	HSK3.0 HSK6
+产量	chǎnliàng · output	HSK3.0 HSK6
+好似	hǎosì · to seem	HSK3.0 HSK6
+游玩	yóuwán · to amuse oneself	HSK3.0 HSK6
+遍地	biàndì · everywhere	HSK3.0 HSK6
+反问	fǎnwèn · to ask  in reply	HSK3.0 HSK6
+景点	jǐngdiǎn · tourist attraction; scenic spot	HSK3.0 HSK6
+炒作	chǎozuò · to hype	HSK3.0 HSK6
+厂商	chǎngshāng · manufacturer	HSK3.0 HSK6
+民歌	míngē · folk song	HSK3.0 HSK6
+构建	gòujiàn · to construct	HSK3.0 HSK6
+蓝领	lánlǐng · blue-collar	HSK3.0 HSK6
+一行	yīxíng · party	HSK3.0 HSK6
+单打	dāndǎ · singles	HSK3.0 HSK6
+求职	qiúzhí · to seek employment	HSK3.0 HSK6
+宽阔	kuānkuò · expansive	HSK3.0 HSK6
+定价	dìngjià · to set a price	HSK3.0 HSK6
+报刊	bàokān · newspapers and periodicals	HSK3.0 HSK6
+奶粉	nǎifěn · powdered milk	HSK3.0 HSK6
+加盟	jiāméng · to become a member of an alliance or union	HSK3.0 HSK6
+精品	jīngpǐn · quality goods	HSK3.0 HSK6
+小于	xiǎoyú · less than, <	HSK3.0 HSK6
+只得	zhǐdé · to have no alternative but to; to be obliged to	HSK3.0 HSK6
+宏大	hóngdà · great	HSK3.0 HSK6
+馒头	mántou · steamed bun; mantou	HSK3.0 HSK6
+通红	tōnghóng · very red	HSK3.0 HSK6
+热水器	rèshuǐqì · water heater	HSK3.0 HSK6
+往年	wǎngnián · in former years	HSK3.0 HSK6
+座谈会	zuòtánhuì · conference	HSK3.0 HSK6
+冷气	lěngqì · air conditioning	HSK3.0 HSK6
+吉祥	jíxiáng · lucky	HSK3.0 HSK6
+圆珠笔	yuánzhūbǐ · ballpoint pen	HSK3.0 HSK6
+多媒体	duōméitǐ · multimedia	HSK3.0 HSK6
+袖珍	xiùzhēn · pocket-sized	HSK3.0 HSK6
+处长	chùzhǎng · department head	HSK3.0 HSK6
+兴旺	xīngwàng · prosperous	HSK3.0 HSK6
+公安	gōngān · Public Security	HSK3.0 HSK6
+升值	shēngzhí · to rise in value	HSK3.0 HSK6
+借鉴	jièjiàn · to draw on	HSK3.0 HSK6
+截至	jiézhì · up to	HSK3.0 HSK6
+退票	tuìpiào · to bounce	HSK3.0 HSK6
+洗衣粉	xǐyīfěn · laundry detergent	HSK3.0 HSK6
+内外	nèiwài · inside and outside	HSK3.0 HSK6
+沿海	yánhǎi · coastal	HSK3.0 HSK6
+少儿	shàoér · child	HSK3.0 HSK6
+梅花	méihuā · plum blossom	HSK3.0 HSK6
+补考	bǔkǎo · to sit for a makeup exam	HSK3.0 HSK6
+近视	jìnshì · shortsighted	HSK3.0 HSK6
+皮球	píqiú · ball	HSK3.0 HSK6
+扎实	zhāshi · strong	HSK3.0 HSK6
+上班族	shàngbānzú · office workers	HSK3.0 HSK6
+客车	kèchē · coach	HSK3.0 HSK6
+教育部	Jiàoyùbù · Ministry of Education	HSK3.0 HSK6
+新兴	xīnxīng · rising	HSK3.0 HSK6
+节假日	jiéjiàrì · public holiday	HSK3.0 HSK6
+常年	chángnián · all year round	HSK3.0 HSK6
+出台	chūtái · to officially launch	HSK3.0 HSK6
+节能	jiénéng · to save energy	HSK3.0 HSK6
+师生	shīshēng · teachers and students	HSK3.0 HSK6
+近日	jìnrì · the past few days	HSK3.0 HSK6
+房价	fángjià · house price	HSK3.0 HSK6
+拆迁	chāiqiān · to demolish a building and relocate the inhabitants	HSK3.0 HSK6
+工商	gōngshāng · industry and commerce	HSK3.0 HSK6
+试点	shìdiǎn · test point	HSK3.0 HSK6
+补课	bǔkè · to make up missed lesson	HSK3.0 HSK6
+楼道	lóudào · corridor	HSK3.0 HSK6
+家电	jiādiàn · household electric appliance	HSK3.0 HSK6
+更是	gèngshì · even more	HSK3.0 HSK6
+写字台	xiězìtái · writing desk	HSK3.0 HSK6
+民工	míngōng · migrant worker	HSK3.0 HSK6
+开夜车	kāiyèchē · to burn the midnight oil	HSK3.0 HSK6
+内地	nèidì · inland	HSK3.0 HSK6
+手续费	shǒuxùfèi · service charge	HSK3.0 HSK6
+平方米	píngfāngmǐ · square meter	HSK3.0 HSK6
+机动车	jīdòngchē · motor vehicle	HSK3.0 HSK6
+乳制品	rǔzhìpǐn · dairy products	HSK3.0 HSK6
+好容易	hǎoróngyì · with great difficulty	HSK3.0 HSK6
+国产	guóchǎn · domestically produced	HSK3.0 HSK6
+中外	zhōngwài · Sino-foreign	HSK3.0 HSK6
+长短	chángduǎn · length	HSK3.0 HSK6
+整治	zhěngzhì · to bring under control	HSK3.0 HSK6
+增值	zēngzhí · to appreciate	HSK3.0 HSK6
+铜牌	tóngpái · bronze medal	HSK3.0 HSK6
+司长	sīzhǎng · bureau chief	HSK3.0 HSK6
+车号	chēhào · vehicle number	HSK3.0 HSK6
+升学	shēngxué · to enter the next grade school	HSK3.0 HSK6
+同期	tóngqī · the corresponding time period	HSK3.0 HSK6
+昌盛	chāngshèng · prosperous	HSK3.0 HSK6
+此致	cǐzhì · used at the end of a letter to introduce a polite salutation	HSK3.0 HSK6
+笔试	bǐshì · written examination	HSK3.0 HSK6
+本期	běnqī · the current period	HSK3.0 HSK6
+卧铺	wòpù · a bed	HSK3.0 HSK6
+总量	zǒngliàng · total	HSK3.0 HSK6
+双打	shuāngdǎ · doubles	HSK3.0 HSK6
+名胜	míngshèng · a place famous for its scenery or historical relics	HSK3.0 HSK6
+口试	kǒushì · oral examination	HSK3.0 HSK6
+多方面	duōfāngmiàn · many-sided	HSK3.0 HSK6
+首次	shǒucì · first	HSK3.0 HSK6
+写字楼	xiězìlóu · office building	HSK3.0 HSK6
+让座	ràngzuò · to give up one's seat for sb	HSK3.0 HSK6
+外币	wàibì · foreign currency	HSK3.0 HSK6
+中华	Zhōnghuá · China	HSK3.0 HSK6
+赶忙	gǎnmáng · to hurry	HSK3.0 HSK6
+报考	bàokǎo · to enter oneself for an examination	HSK3.0 HSK6
+绿化	lǜhuà · to make green with plants	HSK3.0 HSK6
+炒股	chǎogǔ · to speculate in stocks	HSK3.0 HSK6
+游人	yóurén · a tourist	HSK3.0 HSK6
+园地	yuándì · garden area	HSK3.0 HSK6
+参展	cānzhǎn · to exhibit at or take part in a trade show etc	HSK3.0 HSK6
+用法	yòngfǎ · usage	HSK3.0 HSK6
+不料	bùliào · unexpectedly	HSK3.0 HSK6
+道教	Dàojiào · Taoism	HSK3.0 HSK6
+出访	chūfǎng · to go and visit in an official capacity or for investigation	HSK3.0 HSK6
+望见	wàngjiàn · to espy	HSK3.0 HSK6
+文娱	wényú · cultural recreation	HSK3.0 HSK6
+场馆	chǎngguǎn · sporting venue	HSK3.0 HSK6
+两手	liǎngshǒu · one's two hands	HSK3.0 HSK6
+慢车	mànchē · local bus or train	HSK3.0 HSK6
+果树	guǒshù · fruit tree	HSK3.0 HSK6
+考场	kǎochǎng · exam room	HSK3.0 HSK6
+深化	shēnhuà · to deepen	HSK3.0 HSK6
+高科技	gāokējì · high tech; high technology	HSK3.0 HSK6
+必修	bìxiū · required	HSK3.0 HSK6
+民警	mínjǐng · civil police	HSK3.0 HSK6
+看得起	kàndeqǐ · to show respect for	HSK3.0 HSK6
+城乡	chéngxiāng · city and countryside	HSK3.0 HSK6
+初等	chūděng · elementary	HSK3.0 HSK6
+考题	kǎotí · exam question	HSK3.0 HSK6
+端午节	Duānwǔjié · Dragon Boat Festival	HSK3.0 HSK6
+外资	wàizī · foreign investment	HSK3.0 HSK6
+好学	hǎoxué · easy to learn	HSK3.0 HSK6
+戏曲	xìqǔ · Chinese opera	HSK3.0 HSK6
+办学	bànxué · to run a school	HSK3.0 HSK6
+一路上	yīlùshàng · along the way	HSK3.0 HSK6
+不值	bùzhí · not worth	HSK3.0 HSK6
+不怎么样	bùzěnmeyàng · not up to much	HSK3.0 HSK6
+却是	quèshì · nevertheless	HSK3.0 HSK6
+取款机	qǔkuǎnjī · ATM	HSK3.0 HSK6
+如一	rúyī · consistent	HSK3.0 HSK6
+指着	zhǐzhe · Poke	HSK3.0 HSK6
+有没有	yǒuméiyǒu · Do  have ...?	HSK3.0 HSK6
+清明节	Qīngmíngjié · Qingming or Pure Brightness Festival or Tomb Sweeping Day, celebration for the dead	HSK3.0 HSK6
+用得着	yòngdezháo · to be able to use; useable	HSK3.0 HSK6
+算了	suànle · let it be	HSK3.0 HSK6
+聊天儿	liáotiānr · to chat; to gossip	HSK3.0 HSK6
+薯片	shǔpiàn · fried potato chips	HSK3.0 HSK6
+表面上	biǎomiànshang · outwardly; superficially	HSK3.0 HSK6
+赶不上	gǎnbùshàng · can't keep up with	HSK3.0 HSK6
+车展	chēzhǎn · motor show	HSK3.0 HSK6
